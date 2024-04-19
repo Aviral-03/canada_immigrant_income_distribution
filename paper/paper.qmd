@@ -40,24 +40,24 @@ bibliography: ["references.bib"]
 #| warning: false
 #| message: false
 
-library(tidyverse)
-library(tinytex)
-library(knitr)
+
+library(janitor)
+library(tidyverse) # a collection of data-related packages
+library(knitr) # for kable
+library(kableExtra)
+library(here)
+library(ggbeeswarm)
 library(dplyr)
 library(ggplot2)
-library(janitor)
+library(sf)
+library(ggrepel)
 library(patchwork)
-library(kableExtra)
-library(gridExtra)
-library(devtools)
-library(statcanR)
-library(cansim)
-library(modelsummary)
 library(rstanarm)
 library(arrow)
-library(broom)
+library(modelsummary)
+library(broom.mixed)
+library(parameters)
 library(styler)
-library(here)
 ```
 
 # Introduction {#sec-introduction}
@@ -580,6 +580,24 @@ Similarly, for the Multiple regression model, we aimed to estimate the relations
 
 # Results {#sec-results}
 
+
+```{r}
+#| warning: false
+#| message: false
+#| echo: false
+#| eval: true
+
+# Load the models
+
+# Poisson Regression Model
+admission_category_poission <- readRDS("../models/admission_category_poission.rds")
+
+
+modelsummary(admission_category_poission, stars = TRUE, statistic = 'conf.int', conf_level = 0.95, fmt = 2)
+
+```
+
+
 ```{r}
 #| echo: false
 #| eval: true
@@ -600,7 +618,7 @@ model_data <- cleaned_data %>%
 # modelsummary(admission_category_poission, stars = TRUE, statistic = 'conf.int', conf_level = 0.95, fmt = 2)
 
 ```
-Table @tbl-modelresults presents the summary of the Poisson regression model, and multiple regression model.
+@tbl-modelresults presents the summary of the Poisson regression model, and multiple regression model.
 
 In the above table, "Economic Immigrant, spouse and dependent" serves as the reference category and is omitted from the table. In this baseline model, we observe positive coefficients for the admission categories "Immigrants sponsored by family" and "Economic Immigrant, principal applicant". Specifically, $\beta_1 = 1.49$ suggests that being an "Economic Immigrant, Principal Applicant" is positively associated with the log count of total immigrants compared to the reference category. This positive association indicates that individuals falling under this admission category are more likely to be granted citizenship compared to those in the reference category and other categories with negative coefficients. This relationship aligns with the findings in @tbl-table4, where we observe that the percentage of total count for "Economic Immigrant, principal applicant" is 16%, which is the highest among all admission categories. Additionally, the admission category "Immigrants sponsored by family" has a positive coefficient of 0.35, indicating a positive association as well, which accounted for 16% of the total count as well as observed in @tbl-table4.
 
@@ -631,7 +649,7 @@ table1_long <- table1 %>%
 ggplot(table1_long, aes(x = Year, y = Value, color = `Admission Category`, group = `Admission Category`)) +
   geom_point() +
   labs(x = "Year",
-       y = "Meidan Income (in $CAD)",
+       y = "Median Income (in $CAD)",
        color = "Admission Category") +
   theme_minimal() +
   geom_smooth(method = "lm", se = TRUE) +
