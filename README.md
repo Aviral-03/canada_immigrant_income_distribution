@@ -2,8 +2,14 @@
 
 ## Overview
 
-This repo provides students with a foundation for their own projects associated with *Telling Stories with Data*. You do not need every aspect for every paper and you should delete aspects that you do not need.
-
+This paper investigates the relationship between income levels and immigrants’
+admission categories on citizenship rates in Canada from 2001 to 2021. Utilizing
+data from Statistics Canada, the study explores the influence of income distribu-
+tion among top six immigrants admission categories. Results reveal a notable aﬀin-
+ity towards the Economic Immigrants category, with the highest median income.
+Positive correlations between immigrant admissions and income signify Canada’s
+success in attracting economically impactful individuals. This research sheds light
+on Canada’s immigration policy implications amidst socio-economic challenges
 
 ## File Structure
 
