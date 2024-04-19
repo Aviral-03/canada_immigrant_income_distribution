@@ -1,0 +1,1537 @@
+"year","admission_category","statistics","value"
+2001,"Total, immigrant admission category","Total count",153850
+2002,"Total, immigrant admission category","Total count",139590
+2003,"Total, immigrant admission category","Total count",133755
+2004,"Total, immigrant admission category","Total count",142090
+2005,"Total, immigrant admission category","Total count",154625
+2006,"Total, immigrant admission category","Total count",154640
+2007,"Total, immigrant admission category","Total count",145895
+2008,"Total, immigrant admission category","Total count",151290
+2009,"Total, immigrant admission category","Total count",155340
+2010,"Total, immigrant admission category","Total count",169745
+2011,"Total, immigrant admission category","Total count",152585
+2012,"Total, immigrant admission category","Total count",162900
+2013,"Total, immigrant admission category","Total count",168735
+2014,"Total, immigrant admission category","Total count",174385
+2015,"Total, immigrant admission category","Total count",180375
+2016,"Total, immigrant admission category","Total count",186485
+2001,"Total, immigrant admission category","Total with income",91120
+2002,"Total, immigrant admission category","Total with income",82030
+2003,"Total, immigrant admission category","Total with income",75315
+2004,"Total, immigrant admission category","Total with income",85085
+2005,"Total, immigrant admission category","Total with income",96250
+2006,"Total, immigrant admission category","Total with income",98615
+2007,"Total, immigrant admission category","Total with income",94800
+2008,"Total, immigrant admission category","Total with income",97585
+2009,"Total, immigrant admission category","Total with income",94445
+2010,"Total, immigrant admission category","Total with income",104555
+2011,"Total, immigrant admission category","Total with income",93915
+2012,"Total, immigrant admission category","Total with income",102040
+2013,"Total, immigrant admission category","Total with income",106400
+2014,"Total, immigrant admission category","Total with income",118805
+2015,"Total, immigrant admission category","Total with income",122470
+2016,"Total, immigrant admission category","Total with income",123830
+2001,"Total, immigrant admission category","Mean with income",14600
+2002,"Total, immigrant admission category","Mean with income",14400
+2003,"Total, immigrant admission category","Mean with income",14500
+2004,"Total, immigrant admission category","Mean with income",16800
+2005,"Total, immigrant admission category","Mean with income",16200
+2006,"Total, immigrant admission category","Mean with income",18100
+2007,"Total, immigrant admission category","Mean with income",19900
+2008,"Total, immigrant admission category","Mean with income",21100
+2009,"Total, immigrant admission category","Mean with income",22100
+2010,"Total, immigrant admission category","Mean with income",21500
+2011,"Total, immigrant admission category","Mean with income",21300
+2012,"Total, immigrant admission category","Mean with income",23900
+2013,"Total, immigrant admission category","Mean with income",24900
+2014,"Total, immigrant admission category","Mean with income",29400
+2015,"Total, immigrant admission category","Mean with income",28700
+2016,"Total, immigrant admission category","Mean with income",28300
+2001,"Total, immigrant admission category","Median with income",7800
+2002,"Total, immigrant admission category","Median with income",8100
+2003,"Total, immigrant admission category","Median with income",7500
+2004,"Total, immigrant admission category","Median with income",8300
+2005,"Total, immigrant admission category","Median with income",8500
+2006,"Total, immigrant admission category","Median with income",9500
+2007,"Total, immigrant admission category","Median with income",9900
+2008,"Total, immigrant admission category","Median with income",10700
+2009,"Total, immigrant admission category","Median with income",11000
+2010,"Total, immigrant admission category","Median with income",11100
+2011,"Total, immigrant admission category","Median with income",11200
+2012,"Total, immigrant admission category","Median with income",12700
+2013,"Total, immigrant admission category","Median with income",13700
+2014,"Total, immigrant admission category","Median with income",17900
+2015,"Total, immigrant admission category","Median with income",17800
+2016,"Total, immigrant admission category","Median with income",17200
+2001,"Immigrants sponsored by family","Total count",45790
+2002,"Immigrants sponsored by family","Total count",45460
+2003,"Immigrants sponsored by family","Total count",49120
+2004,"Immigrants sponsored by family","Total count",45030
+2005,"Immigrants sponsored by family","Total count",45685
+2006,"Immigrants sponsored by family","Total count",54845
+2007,"Immigrants sponsored by family","Total count",52950
+2008,"Immigrants sponsored by family","Total count",53205
+2009,"Immigrants sponsored by family","Total count",53085
+2010,"Immigrants sponsored by family","Total count",48095
+2011,"Immigrants sponsored by family","Total count",45195
+2012,"Immigrants sponsored by family","Total count",52270
+2013,"Immigrants sponsored by family","Total count",62450
+2014,"Immigrants sponsored by family","Total count",50380
+2015,"Immigrants sponsored by family","Total count",48920
+2016,"Immigrants sponsored by family","Total count",56090
+2001,"Immigrants sponsored by family","Total with income",25885
+2002,"Immigrants sponsored by family","Total with income",25330
+2003,"Immigrants sponsored by family","Total with income",26130
+2004,"Immigrants sponsored by family","Total with income",24855
+2005,"Immigrants sponsored by family","Total with income",25365
+2006,"Immigrants sponsored by family","Total with income",32305
+2007,"Immigrants sponsored by family","Total with income",32335
+2008,"Immigrants sponsored by family","Total with income",30805
+2009,"Immigrants sponsored by family","Total with income",28735
+2010,"Immigrants sponsored by family","Total with income",26065
+2011,"Immigrants sponsored by family","Total with income",23960
+2012,"Immigrants sponsored by family","Total with income",27185
+2013,"Immigrants sponsored by family","Total with income",32365
+2014,"Immigrants sponsored by family","Total with income",27845
+2015,"Immigrants sponsored by family","Total with income",27275
+2016,"Immigrants sponsored by family","Total with income",32460
+2001,"Immigrants sponsored by family","Mean with income",13600
+2002,"Immigrants sponsored by family","Mean with income",12500
+2003,"Immigrants sponsored by family","Mean with income",12100
+2004,"Immigrants sponsored by family","Mean with income",12100
+2005,"Immigrants sponsored by family","Mean with income",12700
+2006,"Immigrants sponsored by family","Mean with income",13200
+2007,"Immigrants sponsored by family","Mean with income",14000
+2008,"Immigrants sponsored by family","Mean with income",14900
+2009,"Immigrants sponsored by family","Mean with income",14200
+2010,"Immigrants sponsored by family","Mean with income",13900
+2011,"Immigrants sponsored by family","Mean with income",14100
+2012,"Immigrants sponsored by family","Mean with income",15100
+2013,"Immigrants sponsored by family","Mean with income",15400
+2014,"Immigrants sponsored by family","Mean with income",16300
+2015,"Immigrants sponsored by family","Mean with income",16800
+2016,"Immigrants sponsored by family","Mean with income",18300
+2001,"Immigrants sponsored by family","Median with income",8800
+2002,"Immigrants sponsored by family","Median with income",8400
+2003,"Immigrants sponsored by family","Median with income",7300
+2004,"Immigrants sponsored by family","Median with income",7400
+2005,"Immigrants sponsored by family","Median with income",7100
+2006,"Immigrants sponsored by family","Median with income",8200
+2007,"Immigrants sponsored by family","Median with income",8500
+2008,"Immigrants sponsored by family","Median with income",8600
+2009,"Immigrants sponsored by family","Median with income",8100
+2010,"Immigrants sponsored by family","Median with income",8200
+2011,"Immigrants sponsored by family","Median with income",8000
+2012,"Immigrants sponsored by family","Median with income",8700
+2013,"Immigrants sponsored by family","Median with income",8600
+2014,"Immigrants sponsored by family","Median with income",9300
+2015,"Immigrants sponsored by family","Median with income",9800
+2016,"Immigrants sponsored by family","Median with income",10900
+2001,"Sponsored spouse or partner","Total count",29280
+2002,"Sponsored spouse or partner","Total count",27445
+2003,"Sponsored spouse or partner","Total count",33420
+2004,"Sponsored spouse or partner","Total count",34390
+2005,"Sponsored spouse or partner","Total count",35165
+2006,"Sponsored spouse or partner","Total count",35340
+2007,"Sponsored spouse or partner","Total count",35695
+2008,"Sponsored spouse or partner","Total count",35290
+2009,"Sponsored spouse or partner","Total count",34790
+2010,"Sponsored spouse or partner","Total count",32100
+2011,"Sponsored spouse or partner","Total count",30355
+2012,"Sponsored spouse or partner","Total count",31170
+2013,"Sponsored spouse or partner","Total count",35420
+2014,"Sponsored spouse or partner","Total count",35820
+2015,"Sponsored spouse or partner","Total count",36950
+2016,"Sponsored spouse or partner","Total count",44045
+2001,"Sponsored spouse or partner","Total with income",17615
+2002,"Sponsored spouse or partner","Total with income",16255
+2003,"Sponsored spouse or partner","Total with income",18765
+2004,"Sponsored spouse or partner","Total with income",19565
+2005,"Sponsored spouse or partner","Total with income",20550
+2006,"Sponsored spouse or partner","Total with income",21290
+2007,"Sponsored spouse or partner","Total with income",22105
+2008,"Sponsored spouse or partner","Total with income",20940
+2009,"Sponsored spouse or partner","Total with income",19195
+2010,"Sponsored spouse or partner","Total with income",17825
+2011,"Sponsored spouse or partner","Total with income",16745
+2012,"Sponsored spouse or partner","Total with income",17360
+2013,"Sponsored spouse or partner","Total with income",20665
+2014,"Sponsored spouse or partner","Total with income",21025
+2015,"Sponsored spouse or partner","Total with income",21865
+2016,"Sponsored spouse or partner","Total with income",27715
+2001,"Sponsored spouse or partner","Mean with income",16200
+2002,"Sponsored spouse or partner","Mean with income",15100
+2003,"Sponsored spouse or partner","Mean with income",13800
+2004,"Sponsored spouse or partner","Mean with income",13200
+2005,"Sponsored spouse or partner","Mean with income",14100
+2006,"Sponsored spouse or partner","Mean with income",14400
+2007,"Sponsored spouse or partner","Mean with income",14900
+2008,"Sponsored spouse or partner","Mean with income",16300
+2009,"Sponsored spouse or partner","Mean with income",15600
+2010,"Sponsored spouse or partner","Mean with income",14600
+2011,"Sponsored spouse or partner","Mean with income",15300
+2012,"Sponsored spouse or partner","Mean with income",17000
+2013,"Sponsored spouse or partner","Mean with income",18600
+2014,"Sponsored spouse or partner","Mean with income",18400
+2015,"Sponsored spouse or partner","Mean with income",19000
+2016,"Sponsored spouse or partner","Mean with income",20000
+2001,"Sponsored spouse or partner","Median with income",10500
+2002,"Sponsored spouse or partner","Median with income",9900
+2003,"Sponsored spouse or partner","Median with income",7900
+2004,"Sponsored spouse or partner","Median with income",7900
+2005,"Sponsored spouse or partner","Median with income",8100
+2006,"Sponsored spouse or partner","Median with income",8400
+2007,"Sponsored spouse or partner","Median with income",8600
+2008,"Sponsored spouse or partner","Median with income",9000
+2009,"Sponsored spouse or partner","Median with income",8500
+2010,"Sponsored spouse or partner","Median with income",8300
+2011,"Sponsored spouse or partner","Median with income",8600
+2012,"Sponsored spouse or partner","Median with income",9500
+2013,"Sponsored spouse or partner","Median with income",10700
+2014,"Sponsored spouse or partner","Median with income",10600
+2015,"Sponsored spouse or partner","Median with income",11400
+2016,"Sponsored spouse or partner","Median with income",12200
+2001,"Sponsored parent or grandparent","Total count",15550
+2002,"Sponsored parent or grandparent","Total count",17045
+2003,"Sponsored parent or grandparent","Total count",14440
+2004,"Sponsored parent or grandparent","Total count",9465
+2005,"Sponsored parent or grandparent","Total count",9125
+2006,"Sponsored parent or grandparent","Total count",15290
+2007,"Sponsored parent or grandparent","Total count",12090
+2008,"Sponsored parent or grandparent","Total count",12465
+2009,"Sponsored parent or grandparent","Total count",12675
+2010,"Sponsored parent or grandparent","Total count",11210
+2011,"Sponsored parent or grandparent","Total count",10470
+2012,"Sponsored parent or grandparent","Total count",16505
+2013,"Sponsored parent or grandparent","Total count",24565
+2014,"Sponsored parent or grandparent","Total count",13095
+2015,"Sponsored parent or grandparent","Total count",11115
+2016,"Sponsored parent or grandparent","Total count",11220
+2001,"Sponsored parent or grandparent","Total with income",7560
+2002,"Sponsored parent or grandparent","Total with income",8385
+2003,"Sponsored parent or grandparent","Total with income",6485
+2004,"Sponsored parent or grandparent","Total with income",4490
+2005,"Sponsored parent or grandparent","Total with income",3835
+2006,"Sponsored parent or grandparent","Total with income",7940
+2007,"Sponsored parent or grandparent","Total with income",6455
+2008,"Sponsored parent or grandparent","Total with income",5880
+2009,"Sponsored parent or grandparent","Total with income",5690
+2010,"Sponsored parent or grandparent","Total with income",4800
+2011,"Sponsored parent or grandparent","Total with income",4225
+2012,"Sponsored parent or grandparent","Total with income",6395
+2013,"Sponsored parent or grandparent","Total with income",9840
+2014,"Sponsored parent or grandparent","Total with income",5740
+2015,"Sponsored parent or grandparent","Total with income",4810
+2016,"Sponsored parent or grandparent","Total with income",4195
+2001,"Sponsored parent or grandparent","Mean with income",8100
+2002,"Sponsored parent or grandparent","Mean with income",8100
+2003,"Sponsored parent or grandparent","Mean with income",7600
+2004,"Sponsored parent or grandparent","Mean with income",8100
+2005,"Sponsored parent or grandparent","Mean with income",5700
+2006,"Sponsored parent or grandparent","Mean with income",8600
+2007,"Sponsored parent or grandparent","Mean with income",8500
+2008,"Sponsored parent or grandparent","Mean with income",7800
+2009,"Sponsored parent or grandparent","Mean with income",7300
+2010,"Sponsored parent or grandparent","Mean with income",7700
+2011,"Sponsored parent or grandparent","Mean with income",6800
+2012,"Sponsored parent or grandparent","Mean with income",7400
+2013,"Sponsored parent or grandparent","Mean with income",7500
+2014,"Sponsored parent or grandparent","Mean with income",8600
+2015,"Sponsored parent or grandparent","Mean with income",8000
+2016,"Sponsored parent or grandparent","Mean with income",8800
+2001,"Sponsored parent or grandparent","Median with income",6300
+2002,"Sponsored parent or grandparent","Median with income",6600
+2003,"Sponsored parent or grandparent","Median with income",6200
+2004,"Sponsored parent or grandparent","Median with income",6200
+2005,"Sponsored parent or grandparent","Median with income",3600
+2006,"Sponsored parent or grandparent","Median with income",6800
+2007,"Sponsored parent or grandparent","Median with income",6900
+2008,"Sponsored parent or grandparent","Median with income",5600
+2009,"Sponsored parent or grandparent","Median with income",5400
+2010,"Sponsored parent or grandparent","Median with income",5600
+2011,"Sponsored parent or grandparent","Median with income",4600
+2012,"Sponsored parent or grandparent","Median with income",5100
+2013,"Sponsored parent or grandparent","Median with income",5000
+2014,"Sponsored parent or grandparent","Median with income",6200
+2015,"Sponsored parent or grandparent","Median with income",5400
+2016,"Sponsored parent or grandparent","Median with income",5900
+2001,"Other immigrant sponsored by family","Total count",960
+2002,"Other immigrant sponsored by family","Total count",970
+2003,"Other immigrant sponsored by family","Total count",1265
+2004,"Other immigrant sponsored by family","Total count",1175
+2005,"Other immigrant sponsored by family","Total count",1395
+2006,"Other immigrant sponsored by family","Total count",4220
+2007,"Other immigrant sponsored by family","Total count",5165
+2008,"Other immigrant sponsored by family","Total count",5455
+2009,"Other immigrant sponsored by family","Total count",5625
+2010,"Other immigrant sponsored by family","Total count",4785
+2011,"Other immigrant sponsored by family","Total count",4370
+2012,"Other immigrant sponsored by family","Total count",4595
+2013,"Other immigrant sponsored by family","Total count",2470
+2014,"Other immigrant sponsored by family","Total count",1465
+2015,"Other immigrant sponsored by family","Total count",850
+2016,"Other immigrant sponsored by family","Total count",830
+2001,"Other immigrant sponsored by family","Total with income",715
+2002,"Other immigrant sponsored by family","Total with income",690
+2003,"Other immigrant sponsored by family","Total with income",880
+2004,"Other immigrant sponsored by family","Total with income",800
+2005,"Other immigrant sponsored by family","Total with income",980
+2006,"Other immigrant sponsored by family","Total with income",3075
+2007,"Other immigrant sponsored by family","Total with income",3780
+2008,"Other immigrant sponsored by family","Total with income",3985
+2009,"Other immigrant sponsored by family","Total with income",3850
+2010,"Other immigrant sponsored by family","Total with income",3435
+2011,"Other immigrant sponsored by family","Total with income",2990
+2012,"Other immigrant sponsored by family","Total with income",3425
+2013,"Other immigrant sponsored by family","Total with income",1860
+2014,"Other immigrant sponsored by family","Total with income",1080
+2015,"Other immigrant sponsored by family","Total with income",600
+2016,"Other immigrant sponsored by family","Total with income",550
+2001,"Other immigrant sponsored by family","Mean with income",8100
+2002,"Other immigrant sponsored by family","Mean with income",7400
+2003,"Other immigrant sponsored by family","Mean with income",7400
+2004,"Other immigrant sponsored by family","Mean with income",7900
+2005,"Other immigrant sponsored by family","Mean with income",10900
+2006,"Other immigrant sponsored by family","Mean with income",16800
+2007,"Other immigrant sponsored by family","Mean with income",18100
+2008,"Other immigrant sponsored by family","Mean with income",18300
+2009,"Other immigrant sponsored by family","Mean with income",17600
+2010,"Other immigrant sponsored by family","Mean with income",18600
+2011,"Other immigrant sponsored by family","Mean with income",17600
+2012,"Other immigrant sponsored by family","Mean with income",20000
+2013,"Other immigrant sponsored by family","Mean with income",20700
+2014,"Other immigrant sponsored by family","Mean with income",14600
+2015,"Other immigrant sponsored by family","Mean with income",8100
+2016,"Other immigrant sponsored by family","Mean with income",7700
+2001,"Other immigrant sponsored by family","Median with income",6000
+2002,"Other immigrant sponsored by family","Median with income",5100
+2003,"Other immigrant sponsored by family","Median with income",5200
+2004,"Other immigrant sponsored by family","Median with income",5700
+2005,"Other immigrant sponsored by family","Median with income",6600
+2006,"Other immigrant sponsored by family","Median with income",11700
+2007,"Other immigrant sponsored by family","Median with income",12600
+2008,"Other immigrant sponsored by family","Median with income",12800
+2009,"Other immigrant sponsored by family","Median with income",12900
+2010,"Other immigrant sponsored by family","Median with income",13500
+2011,"Other immigrant sponsored by family","Median with income",12600
+2012,"Other immigrant sponsored by family","Median with income",15000
+2013,"Other immigrant sponsored by family","Median with income",15400
+2014,"Other immigrant sponsored by family","Median with income",8500
+2015,"Other immigrant sponsored by family","Median with income",6300
+2016,"Other immigrant sponsored by family","Median with income",6000
+2001,"Economic Immigrant, principal applicant","Total count",53180
+2002,"Economic Immigrant, principal applicant","Total count",46145
+2003,"Economic Immigrant, principal applicant","Total count",39465
+2004,"Economic Immigrant, principal applicant","Total count",41605
+2005,"Economic Immigrant, principal applicant","Total count",45110
+2006,"Economic Immigrant, principal applicant","Total count",42140
+2007,"Economic Immigrant, principal applicant","Total count",40990
+2008,"Economic Immigrant, principal applicant","Total count",47005
+2009,"Economic Immigrant, principal applicant","Total count",49465
+2010,"Economic Immigrant, principal applicant","Total count",59970
+2011,"Economic Immigrant, principal applicant","Total count",50745
+2012,"Economic Immigrant, principal applicant","Total count",55440
+2013,"Economic Immigrant, principal applicant","Total count",54005
+2014,"Economic Immigrant, principal applicant","Total count",67495
+2015,"Economic Immigrant, principal applicant","Total count",66445
+2016,"Economic Immigrant, principal applicant","Total count",58565
+2001,"Economic Immigrant, principal applicant","Total with income",38165
+2002,"Economic Immigrant, principal applicant","Total with income",33100
+2003,"Economic Immigrant, principal applicant","Total with income",27110
+2004,"Economic Immigrant, principal applicant","Total with income",29890
+2005,"Economic Immigrant, principal applicant","Total with income",34160
+2006,"Economic Immigrant, principal applicant","Total with income",32815
+2007,"Economic Immigrant, principal applicant","Total with income",32445
+2008,"Economic Immigrant, principal applicant","Total with income",37660
+2009,"Economic Immigrant, principal applicant","Total with income",38060
+2010,"Economic Immigrant, principal applicant","Total with income",46035
+2011,"Economic Immigrant, principal applicant","Total with income",39285
+2012,"Economic Immigrant, principal applicant","Total with income",43910
+2013,"Economic Immigrant, principal applicant","Total with income",44385
+2014,"Economic Immigrant, principal applicant","Total with income",58185
+2015,"Economic Immigrant, principal applicant","Total with income",57630
+2016,"Economic Immigrant, principal applicant","Total with income",51845
+2001,"Economic Immigrant, principal applicant","Mean with income",18500
+2002,"Economic Immigrant, principal applicant","Mean with income",18700
+2003,"Economic Immigrant, principal applicant","Mean with income",19200
+2004,"Economic Immigrant, principal applicant","Mean with income",24100
+2005,"Economic Immigrant, principal applicant","Mean with income",22100
+2006,"Economic Immigrant, principal applicant","Mean with income",27300
+2007,"Economic Immigrant, principal applicant","Mean with income",30800
+2008,"Economic Immigrant, principal applicant","Mean with income",31900
+2009,"Economic Immigrant, principal applicant","Mean with income",33500
+2010,"Economic Immigrant, principal applicant","Mean with income",30900
+2011,"Economic Immigrant, principal applicant","Mean with income",30900
+2012,"Economic Immigrant, principal applicant","Mean with income",35000
+2013,"Economic Immigrant, principal applicant","Mean with income",36900
+2014,"Economic Immigrant, principal applicant","Mean with income",41800
+2015,"Economic Immigrant, principal applicant","Mean with income",41600
+2016,"Economic Immigrant, principal applicant","Mean with income",42900
+2001,"Economic Immigrant, principal applicant","Median with income",8900
+2002,"Economic Immigrant, principal applicant","Median with income",9400
+2003,"Economic Immigrant, principal applicant","Median with income",8500
+2004,"Economic Immigrant, principal applicant","Median with income",9700
+2005,"Economic Immigrant, principal applicant","Median with income",10300
+2006,"Economic Immigrant, principal applicant","Median with income",13000
+2007,"Economic Immigrant, principal applicant","Median with income",14500
+2008,"Economic Immigrant, principal applicant","Median with income",17300
+2009,"Economic Immigrant, principal applicant","Median with income",18700
+2010,"Economic Immigrant, principal applicant","Median with income",17400
+2011,"Economic Immigrant, principal applicant","Median with income",17700
+2012,"Economic Immigrant, principal applicant","Median with income",22200
+2013,"Economic Immigrant, principal applicant","Median with income",25300
+2014,"Economic Immigrant, principal applicant","Median with income",29300
+2015,"Economic Immigrant, principal applicant","Median with income",30200
+2016,"Economic Immigrant, principal applicant","Median with income",31200
+2001,"Skilled worker and skilled trades, principal applicant","Total count",47845
+2002,"Skilled worker and skilled trades, principal applicant","Total count",41740
+2003,"Skilled worker and skilled trades, principal applicant","Total count",34455
+2004,"Skilled worker and skilled trades, principal applicant","Total count",35425
+2005,"Skilled worker and skilled trades, principal applicant","Total count",37255
+2006,"Skilled worker and skilled trades, principal applicant","Total count",32140
+2007,"Skilled worker and skilled trades, principal applicant","Total count",30050
+2008,"Skilled worker and skilled trades, principal applicant","Total count",31150
+2009,"Skilled worker and skilled trades, principal applicant","Total count",28820
+2010,"Skilled worker and skilled trades, principal applicant","Total count",35365
+2011,"Skilled worker and skilled trades, principal applicant","Total count",26620
+2012,"Skilled worker and skilled trades, principal applicant","Total count",29185
+2013,"Skilled worker and skilled trades, principal applicant","Total count",26380
+2014,"Skilled worker and skilled trades, principal applicant","Total count",22425
+2015,"Skilled worker and skilled trades, principal applicant","Total count",24675
+2016,"Skilled worker and skilled trades, principal applicant","Total count",24285
+2001,"Skilled worker and skilled trades, principal applicant","Total with income",33960
+2002,"Skilled worker and skilled trades, principal applicant","Total with income",29570
+2003,"Skilled worker and skilled trades, principal applicant","Total with income",22880
+2004,"Skilled worker and skilled trades, principal applicant","Total with income",24680
+2005,"Skilled worker and skilled trades, principal applicant","Total with income",27420
+2006,"Skilled worker and skilled trades, principal applicant","Total with income",24050
+2007,"Skilled worker and skilled trades, principal applicant","Total with income",22670
+2008,"Skilled worker and skilled trades, principal applicant","Total with income",23265
+2009,"Skilled worker and skilled trades, principal applicant","Total with income",19230
+2010,"Skilled worker and skilled trades, principal applicant","Total with income",23840
+2011,"Skilled worker and skilled trades, principal applicant","Total with income",17650
+2012,"Skilled worker and skilled trades, principal applicant","Total with income",19975
+2013,"Skilled worker and skilled trades, principal applicant","Total with income",18605
+2014,"Skilled worker and skilled trades, principal applicant","Total with income",15480
+2015,"Skilled worker and skilled trades, principal applicant","Total with income",17995
+2016,"Skilled worker and skilled trades, principal applicant","Total with income",19505
+2001,"Skilled worker and skilled trades, principal applicant","Mean with income",18700
+2002,"Skilled worker and skilled trades, principal applicant","Mean with income",18700
+2003,"Skilled worker and skilled trades, principal applicant","Mean with income",18400
+2004,"Skilled worker and skilled trades, principal applicant","Mean with income",22900
+2005,"Skilled worker and skilled trades, principal applicant","Mean with income",20700
+2006,"Skilled worker and skilled trades, principal applicant","Mean with income",25000
+2007,"Skilled worker and skilled trades, principal applicant","Mean with income",29500
+2008,"Skilled worker and skilled trades, principal applicant","Mean with income",29700
+2009,"Skilled worker and skilled trades, principal applicant","Mean with income",28100
+2010,"Skilled worker and skilled trades, principal applicant","Mean with income",23900
+2011,"Skilled worker and skilled trades, principal applicant","Mean with income",21100
+2012,"Skilled worker and skilled trades, principal applicant","Mean with income",24300
+2013,"Skilled worker and skilled trades, principal applicant","Mean with income",26400
+2014,"Skilled worker and skilled trades, principal applicant","Mean with income",30200
+2015,"Skilled worker and skilled trades, principal applicant","Mean with income",29200
+2016,"Skilled worker and skilled trades, principal applicant","Mean with income",39400
+2001,"Skilled worker and skilled trades, principal applicant","Median with income",8500
+2002,"Skilled worker and skilled trades, principal applicant","Median with income",9000
+2003,"Skilled worker and skilled trades, principal applicant","Median with income",7500
+2004,"Skilled worker and skilled trades, principal applicant","Median with income",8500
+2005,"Skilled worker and skilled trades, principal applicant","Median with income",9200
+2006,"Skilled worker and skilled trades, principal applicant","Median with income",11100
+2007,"Skilled worker and skilled trades, principal applicant","Median with income",12000
+2008,"Skilled worker and skilled trades, principal applicant","Median with income",13000
+2009,"Skilled worker and skilled trades, principal applicant","Median with income",11200
+2010,"Skilled worker and skilled trades, principal applicant","Median with income",10700
+2011,"Skilled worker and skilled trades, principal applicant","Median with income",9800
+2012,"Skilled worker and skilled trades, principal applicant","Median with income",11100
+2013,"Skilled worker and skilled trades, principal applicant","Median with income",12900
+2014,"Skilled worker and skilled trades, principal applicant","Median with income",14400
+2015,"Skilled worker and skilled trades, principal applicant","Median with income",15900
+2016,"Skilled worker and skilled trades, principal applicant","Median with income",24800
+2001,"Canadian experience class, principal applicant","Total count",NA
+2002,"Canadian experience class, principal applicant","Total count",NA
+2003,"Canadian experience class, principal applicant","Total count",NA
+2004,"Canadian experience class, principal applicant","Total count",NA
+2005,"Canadian experience class, principal applicant","Total count",NA
+2006,"Canadian experience class, principal applicant","Total count",NA
+2007,"Canadian experience class, principal applicant","Total count",NA
+2008,"Canadian experience class, principal applicant","Total count",NA
+2009,"Canadian experience class, principal applicant","Total count",1600
+2010,"Canadian experience class, principal applicant","Total count",2235
+2011,"Canadian experience class, principal applicant","Total count",3575
+2012,"Canadian experience class, principal applicant","Total count",5280
+2013,"Canadian experience class, principal applicant","Total count",3970
+2014,"Canadian experience class, principal applicant","Total count",13090
+2015,"Canadian experience class, principal applicant","Total count",10255
+2016,"Canadian experience class, principal applicant","Total count",8680
+2001,"Canadian experience class, principal applicant","Total with income",NA
+2002,"Canadian experience class, principal applicant","Total with income",NA
+2003,"Canadian experience class, principal applicant","Total with income",NA
+2004,"Canadian experience class, principal applicant","Total with income",NA
+2005,"Canadian experience class, principal applicant","Total with income",NA
+2006,"Canadian experience class, principal applicant","Total with income",NA
+2007,"Canadian experience class, principal applicant","Total with income",NA
+2008,"Canadian experience class, principal applicant","Total with income",NA
+2009,"Canadian experience class, principal applicant","Total with income",1550
+2010,"Canadian experience class, principal applicant","Total with income",2165
+2011,"Canadian experience class, principal applicant","Total with income",3475
+2012,"Canadian experience class, principal applicant","Total with income",5115
+2013,"Canadian experience class, principal applicant","Total with income",3850
+2014,"Canadian experience class, principal applicant","Total with income",12820
+2015,"Canadian experience class, principal applicant","Total with income",10060
+2016,"Canadian experience class, principal applicant","Total with income",8515
+2001,"Canadian experience class, principal applicant","Mean with income",NA
+2002,"Canadian experience class, principal applicant","Mean with income",NA
+2003,"Canadian experience class, principal applicant","Mean with income",NA
+2004,"Canadian experience class, principal applicant","Mean with income",NA
+2005,"Canadian experience class, principal applicant","Mean with income",NA
+2006,"Canadian experience class, principal applicant","Mean with income",NA
+2007,"Canadian experience class, principal applicant","Mean with income",NA
+2008,"Canadian experience class, principal applicant","Mean with income",NA
+2009,"Canadian experience class, principal applicant","Mean with income",62600
+2010,"Canadian experience class, principal applicant","Mean with income",79300
+2011,"Canadian experience class, principal applicant","Mean with income",64700
+2012,"Canadian experience class, principal applicant","Mean with income",64700
+2013,"Canadian experience class, principal applicant","Mean with income",64200
+2014,"Canadian experience class, principal applicant","Mean with income",65000
+2015,"Canadian experience class, principal applicant","Mean with income",71200
+2016,"Canadian experience class, principal applicant","Mean with income",65800
+2001,"Canadian experience class, principal applicant","Median with income",NA
+2002,"Canadian experience class, principal applicant","Median with income",NA
+2003,"Canadian experience class, principal applicant","Median with income",NA
+2004,"Canadian experience class, principal applicant","Median with income",NA
+2005,"Canadian experience class, principal applicant","Median with income",NA
+2006,"Canadian experience class, principal applicant","Median with income",NA
+2007,"Canadian experience class, principal applicant","Median with income",NA
+2008,"Canadian experience class, principal applicant","Median with income",NA
+2009,"Canadian experience class, principal applicant","Median with income",41100
+2010,"Canadian experience class, principal applicant","Median with income",45000
+2011,"Canadian experience class, principal applicant","Median with income",44200
+2012,"Canadian experience class, principal applicant","Median with income",44600
+2013,"Canadian experience class, principal applicant","Median with income",48000
+2014,"Canadian experience class, principal applicant","Median with income",48700
+2015,"Canadian experience class, principal applicant","Median with income",49800
+2016,"Canadian experience class, principal applicant","Median with income",47700
+2001,"Provincial/territorial nominee, principal applicant","Total count",370
+2002,"Provincial/territorial nominee, principal applicant","Total count",620
+2003,"Provincial/territorial nominee, principal applicant","Total count",1275
+2004,"Provincial/territorial nominee, principal applicant","Total count",1855
+2005,"Provincial/territorial nominee, principal applicant","Total count",2330
+2006,"Provincial/territorial nominee, principal applicant","Total count",4165
+2007,"Provincial/territorial nominee, principal applicant","Total count",5690
+2008,"Provincial/territorial nominee, principal applicant","Total count",7500
+2009,"Provincial/territorial nominee, principal applicant","Total count",10685
+2010,"Provincial/territorial nominee, principal applicant","Total count",12540
+2011,"Provincial/territorial nominee, principal applicant","Total count",13655
+2012,"Provincial/territorial nominee, principal applicant","Total count",15625
+2013,"Provincial/territorial nominee, principal applicant","Total count",17405
+2014,"Provincial/territorial nominee, principal applicant","Total count",19180
+2015,"Provincial/territorial nominee, principal applicant","Total count",19370
+2016,"Provincial/territorial nominee, principal applicant","Total count",17930
+2001,"Provincial/territorial nominee, principal applicant","Total with income",315
+2002,"Provincial/territorial nominee, principal applicant","Total with income",525
+2003,"Provincial/territorial nominee, principal applicant","Total with income",1075
+2004,"Provincial/territorial nominee, principal applicant","Total with income",1630
+2005,"Provincial/territorial nominee, principal applicant","Total with income",2040
+2006,"Provincial/territorial nominee, principal applicant","Total with income",3705
+2007,"Provincial/territorial nominee, principal applicant","Total with income",5190
+2008,"Provincial/territorial nominee, principal applicant","Total with income",6870
+2009,"Provincial/territorial nominee, principal applicant","Total with income",9765
+2010,"Provincial/territorial nominee, principal applicant","Total with income",11110
+2011,"Provincial/territorial nominee, principal applicant","Total with income",12055
+2012,"Provincial/territorial nominee, principal applicant","Total with income",14065
+2013,"Provincial/territorial nominee, principal applicant","Total with income",16195
+2014,"Provincial/territorial nominee, principal applicant","Total with income",17685
+2015,"Provincial/territorial nominee, principal applicant","Total with income",18005
+2016,"Provincial/territorial nominee, principal applicant","Total with income",16615
+2001,"Provincial/territorial nominee, principal applicant","Mean with income",23400
+2002,"Provincial/territorial nominee, principal applicant","Mean with income",36200
+2003,"Provincial/territorial nominee, principal applicant","Mean with income",34400
+2004,"Provincial/territorial nominee, principal applicant","Mean with income",56600
+2005,"Provincial/territorial nominee, principal applicant","Mean with income",50600
+2006,"Provincial/territorial nominee, principal applicant","Mean with income",52500
+2007,"Provincial/territorial nominee, principal applicant","Mean with income",45500
+2008,"Provincial/territorial nominee, principal applicant","Mean with income",50600
+2009,"Provincial/territorial nominee, principal applicant","Mean with income",48100
+2010,"Provincial/territorial nominee, principal applicant","Mean with income",43400
+2011,"Provincial/territorial nominee, principal applicant","Mean with income",41200
+2012,"Provincial/territorial nominee, principal applicant","Mean with income",42800
+2013,"Provincial/territorial nominee, principal applicant","Mean with income",46800
+2014,"Provincial/territorial nominee, principal applicant","Mean with income",45800
+2015,"Provincial/territorial nominee, principal applicant","Mean with income",45700
+2016,"Provincial/territorial nominee, principal applicant","Mean with income",42000
+2001,"Provincial/territorial nominee, principal applicant","Median with income",16000
+2002,"Provincial/territorial nominee, principal applicant","Median with income",14500
+2003,"Provincial/territorial nominee, principal applicant","Median with income",12400
+2004,"Provincial/territorial nominee, principal applicant","Median with income",15500
+2005,"Provincial/territorial nominee, principal applicant","Median with income",17100
+2006,"Provincial/territorial nominee, principal applicant","Median with income",21100
+2007,"Provincial/territorial nominee, principal applicant","Median with income",24500
+2008,"Provincial/territorial nominee, principal applicant","Median with income",31800
+2009,"Provincial/territorial nominee, principal applicant","Median with income",34300
+2010,"Provincial/territorial nominee, principal applicant","Median with income",31900
+2011,"Provincial/territorial nominee, principal applicant","Median with income",29300
+2012,"Provincial/territorial nominee, principal applicant","Median with income",31900
+2013,"Provincial/territorial nominee, principal applicant","Median with income",34300
+2014,"Provincial/territorial nominee, principal applicant","Median with income",33800
+2015,"Provincial/territorial nominee, principal applicant","Median with income",35200
+2016,"Provincial/territorial nominee, principal applicant","Median with income",33000
+2001,"Business programs, principal applicant","Total count",3120
+2002,"Business programs, principal applicant","Total count",2285
+2003,"Business programs, principal applicant","Total count",1550
+2004,"Business programs, principal applicant","Total count",1870
+2005,"Business programs, principal applicant","Total count",2500
+2006,"Business programs, principal applicant","Total count",2340
+2007,"Business programs, principal applicant","Total count",1875
+2008,"Business programs, principal applicant","Total count",2285
+2009,"Business programs, principal applicant","Total count",2180
+2010,"Business programs, principal applicant","Total count",2280
+2011,"Business programs, principal applicant","Total count",1980
+2012,"Business programs, principal applicant","Total count",1710
+2013,"Business programs, principal applicant","Total count",1470
+2014,"Business programs, principal applicant","Total count",1305
+2015,"Business programs, principal applicant","Total count",1130
+2016,"Business programs, principal applicant","Total count",895
+2001,"Business programs, principal applicant","Total with income",2055
+2002,"Business programs, principal applicant","Total with income",1510
+2003,"Business programs, principal applicant","Total with income",980
+2004,"Business programs, principal applicant","Total with income",1145
+2005,"Business programs, principal applicant","Total with income",1700
+2006,"Business programs, principal applicant","Total with income",1600
+2007,"Business programs, principal applicant","Total with income",1230
+2008,"Business programs, principal applicant","Total with income",1505
+2009,"Business programs, principal applicant","Total with income",1390
+2010,"Business programs, principal applicant","Total with income",1445
+2011,"Business programs, principal applicant","Total with income",1290
+2012,"Business programs, principal applicant","Total with income",1175
+2013,"Business programs, principal applicant","Total with income",1030
+2014,"Business programs, principal applicant","Total with income",835
+2015,"Business programs, principal applicant","Total with income",645
+2016,"Business programs, principal applicant","Total with income",520
+2001,"Business programs, principal applicant","Mean with income",10000
+2002,"Business programs, principal applicant","Mean with income",8700
+2003,"Business programs, principal applicant","Mean with income",10000
+2004,"Business programs, principal applicant","Mean with income",10000
+2005,"Business programs, principal applicant","Mean with income",10200
+2006,"Business programs, principal applicant","Mean with income",11700
+2007,"Business programs, principal applicant","Mean with income",12600
+2008,"Business programs, principal applicant","Mean with income",11500
+2009,"Business programs, principal applicant","Mean with income",15400
+2010,"Business programs, principal applicant","Mean with income",14800
+2011,"Business programs, principal applicant","Mean with income",11800
+2012,"Business programs, principal applicant","Mean with income",17500
+2013,"Business programs, principal applicant","Mean with income",17500
+2014,"Business programs, principal applicant","Mean with income",20300
+2015,"Business programs, principal applicant","Mean with income",24300
+2016,"Business programs, principal applicant","Mean with income",19400
+2001,"Business programs, principal applicant","Median with income",3900
+2002,"Business programs, principal applicant","Median with income",3800
+2003,"Business programs, principal applicant","Median with income",3600
+2004,"Business programs, principal applicant","Median with income",3900
+2005,"Business programs, principal applicant","Median with income",4800
+2006,"Business programs, principal applicant","Median with income",5000
+2007,"Business programs, principal applicant","Median with income",5000
+2008,"Business programs, principal applicant","Median with income",4800
+2009,"Business programs, principal applicant","Median with income",6900
+2010,"Business programs, principal applicant","Median with income",6500
+2011,"Business programs, principal applicant","Median with income",5800
+2012,"Business programs, principal applicant","Median with income",7600
+2013,"Business programs, principal applicant","Median with income",7300
+2014,"Business programs, principal applicant","Median with income",8700
+2015,"Business programs, principal applicant","Median with income",9500
+2016,"Business programs, principal applicant","Median with income",9200
+2001,"Caregiver, principal applicant","Total count",1845
+2002,"Caregiver, principal applicant","Total count",1500
+2003,"Caregiver, principal applicant","Total count",2190
+2004,"Caregiver, principal applicant","Total count",2450
+2005,"Caregiver, principal applicant","Total count",3025
+2006,"Caregiver, principal applicant","Total count",3495
+2007,"Caregiver, principal applicant","Total count",3375
+2008,"Caregiver, principal applicant","Total count",6075
+2009,"Caregiver, principal applicant","Total count",6180
+2010,"Caregiver, principal applicant","Total count",7550
+2011,"Caregiver, principal applicant","Total count",4920
+2012,"Caregiver, principal applicant","Total count",3640
+2013,"Caregiver, principal applicant","Total count",4780
+2014,"Caregiver, principal applicant","Total count",11495
+2015,"Caregiver, principal applicant","Total count",11020
+2016,"Caregiver, principal applicant","Total count",6770
+2001,"Caregiver, principal applicant","Total with income",1835
+2002,"Caregiver, principal applicant","Total with income",1495
+2003,"Caregiver, principal applicant","Total with income",2180
+2004,"Caregiver, principal applicant","Total with income",2435
+2005,"Caregiver, principal applicant","Total with income",3000
+2006,"Caregiver, principal applicant","Total with income",3460
+2007,"Caregiver, principal applicant","Total with income",3355
+2008,"Caregiver, principal applicant","Total with income",6020
+2009,"Caregiver, principal applicant","Total with income",6125
+2010,"Caregiver, principal applicant","Total with income",7475
+2011,"Caregiver, principal applicant","Total with income",4820
+2012,"Caregiver, principal applicant","Total with income",3590
+2013,"Caregiver, principal applicant","Total with income",4700
+2014,"Caregiver, principal applicant","Total with income",11365
+2015,"Caregiver, principal applicant","Total with income",10925
+2016,"Caregiver, principal applicant","Total with income",6695
+2001,"Caregiver, principal applicant","Mean with income",22400
+2002,"Caregiver, principal applicant","Mean with income",22400
+2003,"Caregiver, principal applicant","Mean with income",23800
+2004,"Caregiver, principal applicant","Mean with income",21800
+2005,"Caregiver, principal applicant","Mean with income",22300
+2006,"Caregiver, principal applicant","Mean with income",23700
+2007,"Caregiver, principal applicant","Mean with income",23600
+2008,"Caregiver, principal applicant","Mean with income",24300
+2009,"Caregiver, principal applicant","Mean with income",23800
+2010,"Caregiver, principal applicant","Mean with income",23300
+2011,"Caregiver, principal applicant","Mean with income",21900
+2012,"Caregiver, principal applicant","Mean with income",27700
+2013,"Caregiver, principal applicant","Mean with income",26400
+2014,"Caregiver, principal applicant","Mean with income",26900
+2015,"Caregiver, principal applicant","Mean with income",28900
+2016,"Caregiver, principal applicant","Mean with income",28300
+2001,"Caregiver, principal applicant","Median with income",21100
+2002,"Caregiver, principal applicant","Median with income",20800
+2003,"Caregiver, principal applicant","Median with income",21500
+2004,"Caregiver, principal applicant","Median with income",20100
+2005,"Caregiver, principal applicant","Median with income",20400
+2006,"Caregiver, principal applicant","Median with income",21500
+2007,"Caregiver, principal applicant","Median with income",21600
+2008,"Caregiver, principal applicant","Median with income",22100
+2009,"Caregiver, principal applicant","Median with income",21500
+2010,"Caregiver, principal applicant","Median with income",21800
+2011,"Caregiver, principal applicant","Median with income",20700
+2012,"Caregiver, principal applicant","Median with income",25300
+2013,"Caregiver, principal applicant","Median with income",24600
+2014,"Caregiver, principal applicant","Median with income",24700
+2015,"Caregiver, principal applicant","Median with income",26300
+2016,"Caregiver, principal applicant","Median with income",26000
+2001,"Economic Immigrant, spouse and dependent","Total count",37670
+2002,"Economic Immigrant, spouse and dependent","Total count",32390
+2003,"Economic Immigrant, spouse and dependent","Total count",27790
+2004,"Economic Immigrant, spouse and dependent","Total count",31160
+2005,"Economic Immigrant, spouse and dependent","Total count",36655
+2006,"Economic Immigrant, spouse and dependent","Total count",33000
+2007,"Economic Immigrant, spouse and dependent","Total count",30775
+2008,"Economic Immigrant, spouse and dependent","Total count",34760
+2009,"Economic Immigrant, spouse and dependent","Total count",35765
+2010,"Economic Immigrant, spouse and dependent","Total count",43390
+2011,"Economic Immigrant, spouse and dependent","Total count",36410
+2012,"Economic Immigrant, spouse and dependent","Total count",38070
+2013,"Economic Immigrant, spouse and dependent","Total count",34600
+2014,"Economic Immigrant, spouse and dependent","Total count",38910
+2015,"Economic Immigrant, spouse and dependent","Total count",42700
+2016,"Economic Immigrant, spouse and dependent","Total count",38035
+2001,"Economic Immigrant, spouse and dependent","Total with income",18790
+2002,"Economic Immigrant, spouse and dependent","Total with income",16370
+2003,"Economic Immigrant, spouse and dependent","Total with income",13250
+2004,"Economic Immigrant, spouse and dependent","Total with income",16040
+2005,"Economic Immigrant, spouse and dependent","Total with income",20370
+2006,"Economic Immigrant, spouse and dependent","Total with income",19250
+2007,"Economic Immigrant, spouse and dependent","Total with income",18295
+2008,"Economic Immigrant, spouse and dependent","Total with income",20660
+2009,"Economic Immigrant, spouse and dependent","Total with income",19640
+2010,"Economic Immigrant, spouse and dependent","Total with income",23635
+2011,"Economic Immigrant, spouse and dependent","Total with income",20680
+2012,"Economic Immigrant, spouse and dependent","Total with income",22150
+2013,"Economic Immigrant, spouse and dependent","Total with income",20540
+2014,"Economic Immigrant, spouse and dependent","Total with income",24075
+2015,"Economic Immigrant, spouse and dependent","Total with income",28050
+2016,"Economic Immigrant, spouse and dependent","Total with income",26210
+2001,"Economic Immigrant, spouse and dependent","Mean with income",7600
+2002,"Economic Immigrant, spouse and dependent","Mean with income",8000
+2003,"Economic Immigrant, spouse and dependent","Mean with income",7700
+2004,"Economic Immigrant, spouse and dependent","Mean with income",9300
+2005,"Economic Immigrant, spouse and dependent","Mean with income",8900
+2006,"Economic Immigrant, spouse and dependent","Mean with income",11100
+2007,"Economic Immigrant, spouse and dependent","Mean with income",12000
+2008,"Economic Immigrant, spouse and dependent","Mean with income",12200
+2009,"Economic Immigrant, spouse and dependent","Mean with income",13100
+2010,"Economic Immigrant, spouse and dependent","Mean with income",12400
+2011,"Economic Immigrant, spouse and dependent","Mean with income",12800
+2012,"Economic Immigrant, spouse and dependent","Mean with income",14400
+2013,"Economic Immigrant, spouse and dependent","Mean with income",16300
+2014,"Economic Immigrant, spouse and dependent","Mean with income",17900
+2015,"Economic Immigrant, spouse and dependent","Mean with income",17100
+2016,"Economic Immigrant, spouse and dependent","Mean with income",18200
+2001,"Economic Immigrant, spouse and dependent","Median with income",4200
+2002,"Economic Immigrant, spouse and dependent","Median with income",4800
+2003,"Economic Immigrant, spouse and dependent","Median with income",4300
+2004,"Economic Immigrant, spouse and dependent","Median with income",4800
+2005,"Economic Immigrant, spouse and dependent","Median with income",5000
+2006,"Economic Immigrant, spouse and dependent","Median with income",5800
+2007,"Economic Immigrant, spouse and dependent","Median with income",6000
+2008,"Economic Immigrant, spouse and dependent","Median with income",6200
+2009,"Economic Immigrant, spouse and dependent","Median with income",6700
+2010,"Economic Immigrant, spouse and dependent","Median with income",6800
+2011,"Economic Immigrant, spouse and dependent","Median with income",7300
+2012,"Economic Immigrant, spouse and dependent","Median with income",7900
+2013,"Economic Immigrant, spouse and dependent","Median with income",9000
+2014,"Economic Immigrant, spouse and dependent","Median with income",10000
+2015,"Economic Immigrant, spouse and dependent","Median with income",10200
+2016,"Economic Immigrant, spouse and dependent","Median with income",11300
+2001,"Skilled worker and skilled trades, spouse and dependent","Total count",32875
+2002,"Skilled worker and skilled trades, spouse and dependent","Total count",28435
+2003,"Skilled worker and skilled trades, spouse and dependent","Total count",23890
+2004,"Skilled worker and skilled trades, spouse and dependent","Total count",25820
+2005,"Skilled worker and skilled trades, spouse and dependent","Total count",29850
+2006,"Skilled worker and skilled trades, spouse and dependent","Total count",24015
+2007,"Skilled worker and skilled trades, spouse and dependent","Total count",21670
+2008,"Skilled worker and skilled trades, spouse and dependent","Total count",22630
+2009,"Skilled worker and skilled trades, spouse and dependent","Total count",20495
+2010,"Skilled worker and skilled trades, spouse and dependent","Total count",25825
+2011,"Skilled worker and skilled trades, spouse and dependent","Total count",18795
+2012,"Skilled worker and skilled trades, spouse and dependent","Total count",19805
+2013,"Skilled worker and skilled trades, spouse and dependent","Total count",18280
+2014,"Skilled worker and skilled trades, spouse and dependent","Total count",15125
+2015,"Skilled worker and skilled trades, spouse and dependent","Total count",15685
+2016,"Skilled worker and skilled trades, spouse and dependent","Total count",14145
+2001,"Skilled worker and skilled trades, spouse and dependent","Total with income",16370
+2002,"Skilled worker and skilled trades, spouse and dependent","Total with income",14375
+2003,"Skilled worker and skilled trades, spouse and dependent","Total with income",11270
+2004,"Skilled worker and skilled trades, spouse and dependent","Total with income",13095
+2005,"Skilled worker and skilled trades, spouse and dependent","Total with income",16565
+2006,"Skilled worker and skilled trades, spouse and dependent","Total with income",13615
+2007,"Skilled worker and skilled trades, spouse and dependent","Total with income",12325
+2008,"Skilled worker and skilled trades, spouse and dependent","Total with income",12730
+2009,"Skilled worker and skilled trades, spouse and dependent","Total with income",9755
+2010,"Skilled worker and skilled trades, spouse and dependent","Total with income",12650
+2011,"Skilled worker and skilled trades, spouse and dependent","Total with income",9430
+2012,"Skilled worker and skilled trades, spouse and dependent","Total with income",9995
+2013,"Skilled worker and skilled trades, spouse and dependent","Total with income",9370
+2014,"Skilled worker and skilled trades, spouse and dependent","Total with income",7705
+2015,"Skilled worker and skilled trades, spouse and dependent","Total with income",8160
+2016,"Skilled worker and skilled trades, spouse and dependent","Total with income",8405
+2001,"Skilled worker and skilled trades, spouse and dependent","Mean with income",7900
+2002,"Skilled worker and skilled trades, spouse and dependent","Mean with income",8200
+2003,"Skilled worker and skilled trades, spouse and dependent","Mean with income",7900
+2004,"Skilled worker and skilled trades, spouse and dependent","Mean with income",9300
+2005,"Skilled worker and skilled trades, spouse and dependent","Mean with income",8800
+2006,"Skilled worker and skilled trades, spouse and dependent","Mean with income",11000
+2007,"Skilled worker and skilled trades, spouse and dependent","Mean with income",11800
+2008,"Skilled worker and skilled trades, spouse and dependent","Mean with income",12300
+2009,"Skilled worker and skilled trades, spouse and dependent","Mean with income",12700
+2010,"Skilled worker and skilled trades, spouse and dependent","Mean with income",11800
+2011,"Skilled worker and skilled trades, spouse and dependent","Mean with income",11500
+2012,"Skilled worker and skilled trades, spouse and dependent","Mean with income",13100
+2013,"Skilled worker and skilled trades, spouse and dependent","Mean with income",14000
+2014,"Skilled worker and skilled trades, spouse and dependent","Mean with income",15200
+2015,"Skilled worker and skilled trades, spouse and dependent","Mean with income",15300
+2016,"Skilled worker and skilled trades, spouse and dependent","Mean with income",20500
+2001,"Skilled worker and skilled trades, spouse and dependent","Median with income",4300
+2002,"Skilled worker and skilled trades, spouse and dependent","Median with income",5100
+2003,"Skilled worker and skilled trades, spouse and dependent","Median with income",4400
+2004,"Skilled worker and skilled trades, spouse and dependent","Median with income",4800
+2005,"Skilled worker and skilled trades, spouse and dependent","Median with income",5200
+2006,"Skilled worker and skilled trades, spouse and dependent","Median with income",5700
+2007,"Skilled worker and skilled trades, spouse and dependent","Median with income",6000
+2008,"Skilled worker and skilled trades, spouse and dependent","Median with income",6300
+2009,"Skilled worker and skilled trades, spouse and dependent","Median with income",6000
+2010,"Skilled worker and skilled trades, spouse and dependent","Median with income",6500
+2011,"Skilled worker and skilled trades, spouse and dependent","Median with income",6500
+2012,"Skilled worker and skilled trades, spouse and dependent","Median with income",6900
+2013,"Skilled worker and skilled trades, spouse and dependent","Median with income",7700
+2014,"Skilled worker and skilled trades, spouse and dependent","Median with income",8100
+2015,"Skilled worker and skilled trades, spouse and dependent","Median with income",7800
+2016,"Skilled worker and skilled trades, spouse and dependent","Median with income",11700
+2001,"Canadian experience class, spouse and dependent","Total count",NA
+2002,"Canadian experience class, spouse and dependent","Total count",NA
+2003,"Canadian experience class, spouse and dependent","Total count",NA
+2004,"Canadian experience class, spouse and dependent","Total count",NA
+2005,"Canadian experience class, spouse and dependent","Total count",NA
+2006,"Canadian experience class, spouse and dependent","Total count",NA
+2007,"Canadian experience class, spouse and dependent","Total count",NA
+2008,"Canadian experience class, spouse and dependent","Total count",NA
+2009,"Canadian experience class, spouse and dependent","Total count",450
+2010,"Canadian experience class, spouse and dependent","Total count",805
+2011,"Canadian experience class, spouse and dependent","Total count",1240
+2012,"Canadian experience class, spouse and dependent","Total count",1990
+2013,"Canadian experience class, spouse and dependent","Total count",1680
+2014,"Canadian experience class, spouse and dependent","Total count",5715
+2015,"Canadian experience class, spouse and dependent","Total count",4965
+2016,"Canadian experience class, spouse and dependent","Total count",4235
+2001,"Canadian experience class, spouse and dependent","Total with income",NA
+2002,"Canadian experience class, spouse and dependent","Total with income",NA
+2003,"Canadian experience class, spouse and dependent","Total with income",NA
+2004,"Canadian experience class, spouse and dependent","Total with income",NA
+2005,"Canadian experience class, spouse and dependent","Total with income",NA
+2006,"Canadian experience class, spouse and dependent","Total with income",NA
+2007,"Canadian experience class, spouse and dependent","Total with income",NA
+2008,"Canadian experience class, spouse and dependent","Total with income",NA
+2009,"Canadian experience class, spouse and dependent","Total with income",320
+2010,"Canadian experience class, spouse and dependent","Total with income",550
+2011,"Canadian experience class, spouse and dependent","Total with income",840
+2012,"Canadian experience class, spouse and dependent","Total with income",1405
+2013,"Canadian experience class, spouse and dependent","Total with income",1190
+2014,"Canadian experience class, spouse and dependent","Total with income",4125
+2015,"Canadian experience class, spouse and dependent","Total with income",3520
+2016,"Canadian experience class, spouse and dependent","Total with income",3180
+2001,"Canadian experience class, spouse and dependent","Mean with income",NA
+2002,"Canadian experience class, spouse and dependent","Mean with income",NA
+2003,"Canadian experience class, spouse and dependent","Mean with income",NA
+2004,"Canadian experience class, spouse and dependent","Mean with income",NA
+2005,"Canadian experience class, spouse and dependent","Mean with income",NA
+2006,"Canadian experience class, spouse and dependent","Mean with income",NA
+2007,"Canadian experience class, spouse and dependent","Mean with income",NA
+2008,"Canadian experience class, spouse and dependent","Mean with income",NA
+2009,"Canadian experience class, spouse and dependent","Mean with income",25200
+2010,"Canadian experience class, spouse and dependent","Mean with income",30000
+2011,"Canadian experience class, spouse and dependent","Mean with income",27100
+2012,"Canadian experience class, spouse and dependent","Mean with income",28000
+2013,"Canadian experience class, spouse and dependent","Mean with income",30300
+2014,"Canadian experience class, spouse and dependent","Mean with income",29600
+2015,"Canadian experience class, spouse and dependent","Mean with income",29400
+2016,"Canadian experience class, spouse and dependent","Mean with income",27800
+2001,"Canadian experience class, spouse and dependent","Median with income",NA
+2002,"Canadian experience class, spouse and dependent","Median with income",NA
+2003,"Canadian experience class, spouse and dependent","Median with income",NA
+2004,"Canadian experience class, spouse and dependent","Median with income",NA
+2005,"Canadian experience class, spouse and dependent","Median with income",NA
+2006,"Canadian experience class, spouse and dependent","Median with income",NA
+2007,"Canadian experience class, spouse and dependent","Median with income",NA
+2008,"Canadian experience class, spouse and dependent","Median with income",NA
+2009,"Canadian experience class, spouse and dependent","Median with income",17100
+2010,"Canadian experience class, spouse and dependent","Median with income",18500
+2011,"Canadian experience class, spouse and dependent","Median with income",18100
+2012,"Canadian experience class, spouse and dependent","Median with income",19200
+2013,"Canadian experience class, spouse and dependent","Median with income",21700
+2014,"Canadian experience class, spouse and dependent","Median with income",22200
+2015,"Canadian experience class, spouse and dependent","Median with income",21400
+2016,"Canadian experience class, spouse and dependent","Median with income",19800
+2001,"Provincial/territorial nominee, spouse and dependent","Total count",315
+2002,"Provincial/territorial nominee, spouse and dependent","Total count",545
+2003,"Provincial/territorial nominee, spouse and dependent","Total count",1145
+2004,"Provincial/territorial nominee, spouse and dependent","Total count",1625
+2005,"Provincial/territorial nominee, spouse and dependent","Total count",2095
+2006,"Provincial/territorial nominee, spouse and dependent","Total count",3610
+2007,"Provincial/territorial nominee, spouse and dependent","Total count",4630
+2008,"Provincial/territorial nominee, spouse and dependent","Total count",6225
+2009,"Provincial/territorial nominee, spouse and dependent","Total count",8215
+2010,"Provincial/territorial nominee, spouse and dependent","Total count",10030
+2011,"Provincial/territorial nominee, spouse and dependent","Total count",10000
+2012,"Provincial/territorial nominee, spouse and dependent","Total count",10665
+2013,"Provincial/territorial nominee, spouse and dependent","Total count",10070
+2014,"Provincial/territorial nominee, spouse and dependent","Total count",12605
+2015,"Provincial/territorial nominee, spouse and dependent","Total count",11605
+2016,"Provincial/territorial nominee, spouse and dependent","Total count",11575
+2001,"Provincial/territorial nominee, spouse and dependent","Total with income",180
+2002,"Provincial/territorial nominee, spouse and dependent","Total with income",315
+2003,"Provincial/territorial nominee, spouse and dependent","Total with income",665
+2004,"Provincial/territorial nominee, spouse and dependent","Total with income",945
+2005,"Provincial/territorial nominee, spouse and dependent","Total with income",1285
+2006,"Provincial/territorial nominee, spouse and dependent","Total with income",2335
+2007,"Provincial/territorial nominee, spouse and dependent","Total with income",3230
+2008,"Provincial/territorial nominee, spouse and dependent","Total with income",4230
+2009,"Provincial/territorial nominee, spouse and dependent","Total with income",5380
+2010,"Provincial/territorial nominee, spouse and dependent","Total with income",6435
+2011,"Provincial/territorial nominee, spouse and dependent","Total with income",6260
+2012,"Provincial/territorial nominee, spouse and dependent","Total with income",7110
+2013,"Provincial/territorial nominee, spouse and dependent","Total with income",6965
+2014,"Provincial/territorial nominee, spouse and dependent","Total with income",8755
+2015,"Provincial/territorial nominee, spouse and dependent","Total with income",8125
+2016,"Provincial/territorial nominee, spouse and dependent","Total with income",8065
+2001,"Provincial/territorial nominee, spouse and dependent","Mean with income",6500
+2002,"Provincial/territorial nominee, spouse and dependent","Mean with income",8600
+2003,"Provincial/territorial nominee, spouse and dependent","Mean with income",8400
+2004,"Provincial/territorial nominee, spouse and dependent","Mean with income",13800
+2005,"Provincial/territorial nominee, spouse and dependent","Mean with income",14200
+2006,"Provincial/territorial nominee, spouse and dependent","Mean with income",15400
+2007,"Provincial/territorial nominee, spouse and dependent","Mean with income",14800
+2008,"Provincial/territorial nominee, spouse and dependent","Mean with income",15800
+2009,"Provincial/territorial nominee, spouse and dependent","Mean with income",16500
+2010,"Provincial/territorial nominee, spouse and dependent","Mean with income",14400
+2011,"Provincial/territorial nominee, spouse and dependent","Mean with income",14800
+2012,"Provincial/territorial nominee, spouse and dependent","Mean with income",16200
+2013,"Provincial/territorial nominee, spouse and dependent","Mean with income",19400
+2014,"Provincial/territorial nominee, spouse and dependent","Mean with income",17700
+2015,"Provincial/territorial nominee, spouse and dependent","Mean with income",19300
+2016,"Provincial/territorial nominee, spouse and dependent","Mean with income",17500
+2001,"Provincial/territorial nominee, spouse and dependent","Median with income",4800
+2002,"Provincial/territorial nominee, spouse and dependent","Median with income",5100
+2003,"Provincial/territorial nominee, spouse and dependent","Median with income",4800
+2004,"Provincial/territorial nominee, spouse and dependent","Median with income",5200
+2005,"Provincial/territorial nominee, spouse and dependent","Median with income",6300
+2006,"Provincial/territorial nominee, spouse and dependent","Median with income",6500
+2007,"Provincial/territorial nominee, spouse and dependent","Median with income",6700
+2008,"Provincial/territorial nominee, spouse and dependent","Median with income",7500
+2009,"Provincial/territorial nominee, spouse and dependent","Median with income",8400
+2010,"Provincial/territorial nominee, spouse and dependent","Median with income",7800
+2011,"Provincial/territorial nominee, spouse and dependent","Median with income",8300
+2012,"Provincial/territorial nominee, spouse and dependent","Median with income",9300
+2013,"Provincial/territorial nominee, spouse and dependent","Median with income",10900
+2014,"Provincial/territorial nominee, spouse and dependent","Median with income",10700
+2015,"Provincial/territorial nominee, spouse and dependent","Median with income",11400
+2016,"Provincial/territorial nominee, spouse and dependent","Median with income",10800
+2001,"Business programs, spouse and dependent","Total count",4090
+2002,"Business programs, spouse and dependent","Total count",3170
+2003,"Business programs, spouse and dependent","Total count",2230
+2004,"Business programs, spouse and dependent","Total count",2785
+2005,"Business programs, spouse and dependent","Total count",3970
+2006,"Business programs, spouse and dependent","Total count",3680
+2007,"Business programs, spouse and dependent","Total count",3085
+2008,"Business programs, spouse and dependent","Total count",3650
+2009,"Business programs, spouse and dependent","Total count",3425
+2010,"Business programs, spouse and dependent","Total count",3665
+2011,"Business programs, spouse and dependent","Total count",3165
+2012,"Business programs, spouse and dependent","Total count",2760
+2013,"Business programs, spouse and dependent","Total count",2405
+2014,"Business programs, spouse and dependent","Total count",2175
+2015,"Business programs, spouse and dependent","Total count",1855
+2016,"Business programs, spouse and dependent","Total count",1455
+2001,"Business programs, spouse and dependent","Total with income",1890
+2002,"Business programs, spouse and dependent","Total with income",1465
+2003,"Business programs, spouse and dependent","Total with income",935
+2004,"Business programs, spouse and dependent","Total with income",1175
+2005,"Business programs, spouse and dependent","Total with income",1915
+2006,"Business programs, spouse and dependent","Total with income",1840
+2007,"Business programs, spouse and dependent","Total with income",1540
+2008,"Business programs, spouse and dependent","Total with income",1830
+2009,"Business programs, spouse and dependent","Total with income",1520
+2010,"Business programs, spouse and dependent","Total with income",1585
+2011,"Business programs, spouse and dependent","Total with income",1445
+2012,"Business programs, spouse and dependent","Total with income",1375
+2013,"Business programs, spouse and dependent","Total with income",1200
+2014,"Business programs, spouse and dependent","Total with income",1070
+2015,"Business programs, spouse and dependent","Total with income",795
+2016,"Business programs, spouse and dependent","Total with income",650
+2001,"Business programs, spouse and dependent","Mean with income",5000
+2002,"Business programs, spouse and dependent","Mean with income",4900
+2003,"Business programs, spouse and dependent","Mean with income",4900
+2004,"Business programs, spouse and dependent","Mean with income",4700
+2005,"Business programs, spouse and dependent","Mean with income",5500
+2006,"Business programs, spouse and dependent","Mean with income",6600
+2007,"Business programs, spouse and dependent","Mean with income",8400
+2008,"Business programs, spouse and dependent","Mean with income",5400
+2009,"Business programs, spouse and dependent","Mean with income",6600
+2010,"Business programs, spouse and dependent","Mean with income",5900
+2011,"Business programs, spouse and dependent","Mean with income",6800
+2012,"Business programs, spouse and dependent","Mean with income",7300
+2013,"Business programs, spouse and dependent","Mean with income",9000
+2014,"Business programs, spouse and dependent","Mean with income",9700
+2015,"Business programs, spouse and dependent","Mean with income",10900
+2016,"Business programs, spouse and dependent","Mean with income",9900
+2001,"Business programs, spouse and dependent","Median with income",2800
+2002,"Business programs, spouse and dependent","Median with income",2100
+2003,"Business programs, spouse and dependent","Median with income",2500
+2004,"Business programs, spouse and dependent","Median with income",2200
+2005,"Business programs, spouse and dependent","Median with income",2500
+2006,"Business programs, spouse and dependent","Median with income",2700
+2007,"Business programs, spouse and dependent","Median with income",3200
+2008,"Business programs, spouse and dependent","Median with income",2500
+2009,"Business programs, spouse and dependent","Median with income",2600
+2010,"Business programs, spouse and dependent","Median with income",2800
+2011,"Business programs, spouse and dependent","Median with income",2800
+2012,"Business programs, spouse and dependent","Median with income",3500
+2013,"Business programs, spouse and dependent","Median with income",3500
+2014,"Business programs, spouse and dependent","Median with income",4700
+2015,"Business programs, spouse and dependent","Median with income",4200
+2016,"Business programs, spouse and dependent","Median with income",4700
+2001,"Caregiver, spouse and dependent","Total count",395
+2002,"Caregiver, spouse and dependent","Total count",240
+2003,"Caregiver, spouse and dependent","Total count",525
+2004,"Caregiver, spouse and dependent","Total count",925
+2005,"Caregiver, spouse and dependent","Total count",740
+2006,"Caregiver, spouse and dependent","Total count",1695
+2007,"Caregiver, spouse and dependent","Total count",1385
+2008,"Caregiver, spouse and dependent","Total count",2255
+2009,"Caregiver, spouse and dependent","Total count",3180
+2010,"Caregiver, spouse and dependent","Total count",3060
+2011,"Caregiver, spouse and dependent","Total count",3205
+2012,"Caregiver, spouse and dependent","Total count",2850
+2013,"Caregiver, spouse and dependent","Total count",2160
+2014,"Caregiver, spouse and dependent","Total count",3290
+2015,"Caregiver, spouse and dependent","Total count",8590
+2016,"Caregiver, spouse and dependent","Total count",6630
+2001,"Caregiver, spouse and dependent","Total with income",355
+2002,"Caregiver, spouse and dependent","Total with income",215
+2003,"Caregiver, spouse and dependent","Total with income",380
+2004,"Caregiver, spouse and dependent","Total with income",825
+2005,"Caregiver, spouse and dependent","Total with income",605
+2006,"Caregiver, spouse and dependent","Total with income",1460
+2007,"Caregiver, spouse and dependent","Total with income",1205
+2008,"Caregiver, spouse and dependent","Total with income",1875
+2009,"Caregiver, spouse and dependent","Total with income",2665
+2010,"Caregiver, spouse and dependent","Total with income",2415
+2011,"Caregiver, spouse and dependent","Total with income",2700
+2012,"Caregiver, spouse and dependent","Total with income",2260
+2013,"Caregiver, spouse and dependent","Total with income",1815
+2014,"Caregiver, spouse and dependent","Total with income",2425
+2015,"Caregiver, spouse and dependent","Total with income",7450
+2016,"Caregiver, spouse and dependent","Total with income",5910
+2001,"Caregiver, spouse and dependent","Mean with income",11200
+2002,"Caregiver, spouse and dependent","Mean with income",11800
+2003,"Caregiver, spouse and dependent","Mean with income",7300
+2004,"Caregiver, spouse and dependent","Mean with income",11900
+2005,"Caregiver, spouse and dependent","Mean with income",9900
+2006,"Caregiver, spouse and dependent","Mean with income",11600
+2007,"Caregiver, spouse and dependent","Mean with income",10900
+2008,"Caregiver, spouse and dependent","Mean with income",10400
+2009,"Caregiver, spouse and dependent","Mean with income",10300
+2010,"Caregiver, spouse and dependent","Mean with income",9900
+2011,"Caregiver, spouse and dependent","Mean with income",11300
+2012,"Caregiver, spouse and dependent","Mean with income",10900
+2013,"Caregiver, spouse and dependent","Mean with income",12300
+2014,"Caregiver, spouse and dependent","Mean with income",10400
+2015,"Caregiver, spouse and dependent","Mean with income",11500
+2016,"Caregiver, spouse and dependent","Mean with income",11700
+2001,"Caregiver, spouse and dependent","Median with income",9100
+2002,"Caregiver, spouse and dependent","Median with income",10900
+2003,"Caregiver, spouse and dependent","Median with income",5500
+2004,"Caregiver, spouse and dependent","Median with income",10600
+2005,"Caregiver, spouse and dependent","Median with income",8300
+2006,"Caregiver, spouse and dependent","Median with income",10000
+2007,"Caregiver, spouse and dependent","Median with income",8600
+2008,"Caregiver, spouse and dependent","Median with income",8100
+2009,"Caregiver, spouse and dependent","Median with income",8700
+2010,"Caregiver, spouse and dependent","Median with income",7800
+2011,"Caregiver, spouse and dependent","Median with income",9600
+2012,"Caregiver, spouse and dependent","Median with income",8600
+2013,"Caregiver, spouse and dependent","Median with income",10100
+2014,"Caregiver, spouse and dependent","Median with income",7200
+2015,"Caregiver, spouse and dependent","Median with income",9700
+2016,"Caregiver, spouse and dependent","Median with income",9800
+2001,"Refugee","Total count",17120
+2002,"Refugee","Total count",15525
+2003,"Refugee","Total count",16415
+2004,"Refugee","Total count",20765
+2005,"Refugee","Total count",23255
+2006,"Refugee","Total count",20720
+2007,"Refugee","Total count",17450
+2008,"Refugee","Total count",13370
+2009,"Refugee","Total count",14330
+2010,"Refugee","Total count",15705
+2011,"Refugee","Total count",17830
+2012,"Refugee","Total count",14335
+2013,"Refugee","Total count",15430
+2014,"Refugee","Total count",15260
+2015,"Refugee","Total count",19515
+2016,"Refugee","Total count",31275
+2001,"Refugee","Total with income",8205
+2002,"Refugee","Total with income",7190
+2003,"Refugee","Total with income",8200
+2004,"Refugee","Total with income",11650
+2005,"Refugee","Total with income",13435
+2006,"Refugee","Total with income",11305
+2007,"Refugee","Total with income",8915
+2008,"Refugee","Total with income",6315
+2009,"Refugee","Total with income",6020
+2010,"Refugee","Total with income",6885
+2011,"Refugee","Total with income",8235
+2012,"Refugee","Total with income",6845
+2013,"Refugee","Total with income",7380
+2014,"Refugee","Total with income",6800
+2015,"Refugee","Total with income",7240
+2016,"Refugee","Total with income",11265
+2001,"Refugee","Mean with income",15700
+2002,"Refugee","Mean with income",15700
+2003,"Refugee","Mean with income",17200
+2004,"Refugee","Mean with income",17200
+2005,"Refugee","Mean with income",18000
+2006,"Refugee","Mean with income",16500
+2007,"Refugee","Mean with income",16600
+2008,"Refugee","Mean with income",16400
+2009,"Refugee","Mean with income",16300
+2010,"Refugee","Mean with income",17500
+2011,"Refugee","Mean with income",17600
+2012,"Refugee","Mean with income",18400
+2013,"Refugee","Mean with income",17700
+2014,"Refugee","Mean with income",18300
+2015,"Refugee","Mean with income",16500
+2016,"Refugee","Mean with income",13100
+2001,"Refugee","Median with income",11900
+2002,"Refugee","Median with income",11900
+2003,"Refugee","Median with income",13600
+2004,"Refugee","Median with income",13300
+2005,"Refugee","Median with income",14400
+2006,"Refugee","Median with income",12600
+2007,"Refugee","Median with income",12100
+2008,"Refugee","Median with income",11600
+2009,"Refugee","Median with income",11500
+2010,"Refugee","Median with income",13000
+2011,"Refugee","Median with income",13300
+2012,"Refugee","Median with income",13700
+2013,"Refugee","Median with income",12800
+2014,"Refugee","Median with income",13000
+2015,"Refugee","Median with income",11100
+2016,"Refugee","Median with income",8800
+2001,"Government-assisted refugee","Total count",4835
+2002,"Government-assisted refugee","Total count",4200
+2003,"Government-assisted refugee","Total count",4100
+2004,"Government-assisted refugee","Total count",3945
+2005,"Government-assisted refugee","Total count",3870
+2006,"Government-assisted refugee","Total count",3940
+2007,"Government-assisted refugee","Total count",4075
+2008,"Government-assisted refugee","Total count",3970
+2009,"Government-assisted refugee","Total count",4180
+2010,"Government-assisted refugee","Total count",4090
+2011,"Government-assisted refugee","Total count",4145
+2012,"Government-assisted refugee","Total count",3085
+2013,"Government-assisted refugee","Total count",3305
+2014,"Government-assisted refugee","Total count",4405
+2015,"Government-assisted refugee","Total count",4930
+2016,"Government-assisted refugee","Total count",9970
+2001,"Government-assisted refugee","Total with income",1100
+2002,"Government-assisted refugee","Total with income",640
+2003,"Government-assisted refugee","Total with income",585
+2004,"Government-assisted refugee","Total with income",740
+2005,"Government-assisted refugee","Total with income",640
+2006,"Government-assisted refugee","Total with income",770
+2007,"Government-assisted refugee","Total with income",615
+2008,"Government-assisted refugee","Total with income",605
+2009,"Government-assisted refugee","Total with income",430
+2010,"Government-assisted refugee","Total with income",355
+2011,"Government-assisted refugee","Total with income",330
+2012,"Government-assisted refugee","Total with income",300
+2013,"Government-assisted refugee","Total with income",385
+2014,"Government-assisted refugee","Total with income",435
+2015,"Government-assisted refugee","Total with income",450
+2016,"Government-assisted refugee","Total with income",820
+2001,"Government-assisted refugee","Mean with income",6900
+2002,"Government-assisted refugee","Mean with income",4900
+2003,"Government-assisted refugee","Mean with income",4700
+2004,"Government-assisted refugee","Mean with income",4900
+2005,"Government-assisted refugee","Mean with income",5700
+2006,"Government-assisted refugee","Mean with income",5200
+2007,"Government-assisted refugee","Mean with income",4300
+2008,"Government-assisted refugee","Mean with income",5200
+2009,"Government-assisted refugee","Mean with income",3900
+2010,"Government-assisted refugee","Mean with income",4300
+2011,"Government-assisted refugee","Mean with income",4300
+2012,"Government-assisted refugee","Mean with income",5600
+2013,"Government-assisted refugee","Mean with income",5500
+2014,"Government-assisted refugee","Mean with income",5000
+2015,"Government-assisted refugee","Mean with income",5200
+2016,"Government-assisted refugee","Mean with income",4100
+2001,"Government-assisted refugee","Median with income",3400
+2002,"Government-assisted refugee","Median with income",2700
+2003,"Government-assisted refugee","Median with income",2600
+2004,"Government-assisted refugee","Median with income",2800
+2005,"Government-assisted refugee","Median with income",3100
+2006,"Government-assisted refugee","Median with income",3100
+2007,"Government-assisted refugee","Median with income",2500
+2008,"Government-assisted refugee","Median with income",3000
+2009,"Government-assisted refugee","Median with income",1900
+2010,"Government-assisted refugee","Median with income",2800
+2011,"Government-assisted refugee","Median with income",2200
+2012,"Government-assisted refugee","Median with income",3000
+2013,"Government-assisted refugee","Median with income",2600
+2014,"Government-assisted refugee","Median with income",2900
+2015,"Government-assisted refugee","Median with income",3000
+2016,"Government-assisted refugee","Median with income",2200
+2001,"Privately sponsored refugee","Total count",1935
+2002,"Privately sponsored refugee","Total count",1750
+2003,"Privately sponsored refugee","Total count",1830
+2004,"Privately sponsored refugee","Total count",1855
+2005,"Privately sponsored refugee","Total count",1710
+2006,"Privately sponsored refugee","Total count",1955
+2007,"Privately sponsored refugee","Total count",2145
+2008,"Privately sponsored refugee","Total count",2135
+2009,"Privately sponsored refugee","Total count",3060
+2010,"Privately sponsored refugee","Total count",2940
+2011,"Privately sponsored refugee","Total count",3480
+2012,"Privately sponsored refugee","Total count",2495
+2013,"Privately sponsored refugee","Total count",4080
+2014,"Privately sponsored refugee","Total count",3135
+2015,"Privately sponsored refugee","Total count",6110
+2016,"Privately sponsored refugee","Total count",11440
+2001,"Privately sponsored refugee","Total with income",1025
+2002,"Privately sponsored refugee","Total with income",935
+2003,"Privately sponsored refugee","Total with income",1040
+2004,"Privately sponsored refugee","Total with income",1255
+2005,"Privately sponsored refugee","Total with income",1090
+2006,"Privately sponsored refugee","Total with income",1245
+2007,"Privately sponsored refugee","Total with income",1365
+2008,"Privately sponsored refugee","Total with income",1250
+2009,"Privately sponsored refugee","Total with income",1435
+2010,"Privately sponsored refugee","Total with income",1250
+2011,"Privately sponsored refugee","Total with income",1695
+2012,"Privately sponsored refugee","Total with income",1215
+2013,"Privately sponsored refugee","Total with income",1875
+2014,"Privately sponsored refugee","Total with income",1535
+2015,"Privately sponsored refugee","Total with income",2080
+2016,"Privately sponsored refugee","Total with income",5495
+2001,"Privately sponsored refugee","Mean with income",7600
+2002,"Privately sponsored refugee","Mean with income",8700
+2003,"Privately sponsored refugee","Mean with income",6800
+2004,"Privately sponsored refugee","Mean with income",9200
+2005,"Privately sponsored refugee","Mean with income",8500
+2006,"Privately sponsored refugee","Mean with income",9700
+2007,"Privately sponsored refugee","Mean with income",8800
+2008,"Privately sponsored refugee","Mean with income",8900
+2009,"Privately sponsored refugee","Mean with income",7600
+2010,"Privately sponsored refugee","Mean with income",8200
+2011,"Privately sponsored refugee","Mean with income",8400
+2012,"Privately sponsored refugee","Mean with income",8200
+2013,"Privately sponsored refugee","Mean with income",8500
+2014,"Privately sponsored refugee","Mean with income",8900
+2015,"Privately sponsored refugee","Mean with income",8400
+2016,"Privately sponsored refugee","Mean with income",9500
+2001,"Privately sponsored refugee","Median with income",5900
+2002,"Privately sponsored refugee","Median with income",6700
+2003,"Privately sponsored refugee","Median with income",5100
+2004,"Privately sponsored refugee","Median with income",7500
+2005,"Privately sponsored refugee","Median with income",6600
+2006,"Privately sponsored refugee","Median with income",7200
+2007,"Privately sponsored refugee","Median with income",6400
+2008,"Privately sponsored refugee","Median with income",6500
+2009,"Privately sponsored refugee","Median with income",5900
+2010,"Privately sponsored refugee","Median with income",6400
+2011,"Privately sponsored refugee","Median with income",6800
+2012,"Privately sponsored refugee","Median with income",5800
+2013,"Privately sponsored refugee","Median with income",5800
+2014,"Privately sponsored refugee","Median with income",6400
+2015,"Privately sponsored refugee","Median with income",6200
+2016,"Privately sponsored refugee","Median with income",7300
+2001,"Blended visa office-referred program","Total count",NA
+2002,"Blended visa office-referred program","Total count",NA
+2003,"Blended visa office-referred program","Total count",NA
+2004,"Blended visa office-referred program","Total count",NA
+2005,"Blended visa office-referred program","Total count",NA
+2006,"Blended visa office-referred program","Total count",NA
+2007,"Blended visa office-referred program","Total count",NA
+2008,"Blended visa office-referred program","Total count",NA
+2009,"Blended visa office-referred program","Total count",NA
+2010,"Blended visa office-referred program","Total count",NA
+2011,"Blended visa office-referred program","Total count",NA
+2012,"Blended visa office-referred program","Total count",NA
+2013,"Blended visa office-referred program","Total count",NA
+2014,"Blended visa office-referred program","Total count",105
+2015,"Blended visa office-referred program","Total count",360
+2016,"Blended visa office-referred program","Total count",1910
+2001,"Blended visa office-referred program","Total with income",NA
+2002,"Blended visa office-referred program","Total with income",NA
+2003,"Blended visa office-referred program","Total with income",NA
+2004,"Blended visa office-referred program","Total with income",NA
+2005,"Blended visa office-referred program","Total with income",NA
+2006,"Blended visa office-referred program","Total with income",NA
+2007,"Blended visa office-referred program","Total with income",NA
+2008,"Blended visa office-referred program","Total with income",NA
+2009,"Blended visa office-referred program","Total with income",NA
+2010,"Blended visa office-referred program","Total with income",NA
+2011,"Blended visa office-referred program","Total with income",NA
+2012,"Blended visa office-referred program","Total with income",NA
+2013,"Blended visa office-referred program","Total with income",NA
+2014,"Blended visa office-referred program","Total with income",35
+2015,"Blended visa office-referred program","Total with income",25
+2016,"Blended visa office-referred program","Total with income",410
+2001,"Blended visa office-referred program","Mean with income",NA
+2002,"Blended visa office-referred program","Mean with income",NA
+2003,"Blended visa office-referred program","Mean with income",NA
+2004,"Blended visa office-referred program","Mean with income",NA
+2005,"Blended visa office-referred program","Mean with income",NA
+2006,"Blended visa office-referred program","Mean with income",NA
+2007,"Blended visa office-referred program","Mean with income",NA
+2008,"Blended visa office-referred program","Mean with income",NA
+2009,"Blended visa office-referred program","Mean with income",NA
+2010,"Blended visa office-referred program","Mean with income",NA
+2011,"Blended visa office-referred program","Mean with income",NA
+2012,"Blended visa office-referred program","Mean with income",NA
+2013,"Blended visa office-referred program","Mean with income",NA
+2014,"Blended visa office-referred program","Mean with income",11100
+2015,"Blended visa office-referred program","Mean with income",3000
+2016,"Blended visa office-referred program","Mean with income",5100
+2001,"Blended visa office-referred program","Median with income",NA
+2002,"Blended visa office-referred program","Median with income",NA
+2003,"Blended visa office-referred program","Median with income",NA
+2004,"Blended visa office-referred program","Median with income",NA
+2005,"Blended visa office-referred program","Median with income",NA
+2006,"Blended visa office-referred program","Median with income",NA
+2007,"Blended visa office-referred program","Median with income",NA
+2008,"Blended visa office-referred program","Median with income",NA
+2009,"Blended visa office-referred program","Median with income",NA
+2010,"Blended visa office-referred program","Median with income",NA
+2011,"Blended visa office-referred program","Median with income",NA
+2012,"Blended visa office-referred program","Median with income",NA
+2013,"Blended visa office-referred program","Median with income",NA
+2014,"Blended visa office-referred program","Median with income",5600
+2015,"Blended visa office-referred program","Median with income",1800
+2016,"Blended visa office-referred program","Median with income",3300
+2001,"Protected person in Canada","Total count",8780
+2002,"Protected person in Canada","Total count",7885
+2003,"Protected person in Canada","Total count",8775
+2004,"Protected person in Canada","Total count",12165
+2005,"Protected person in Canada","Total count",15280
+2006,"Protected person in Canada","Total count",12165
+2007,"Protected person in Canada","Total count",8880
+2008,"Protected person in Canada","Total count",5405
+2009,"Protected person in Canada","Total count",5680
+2010,"Protected person in Canada","Total count",7205
+2011,"Protected person in Canada","Total count",8530
+2012,"Protected person in Canada","Total count",6725
+2013,"Protected person in Canada","Total count",6430
+2014,"Protected person in Canada","Total count",6120
+2015,"Protected person in Canada","Total count",6555
+2016,"Protected person in Canada","Total count",6300
+2001,"Protected person in Canada","Total with income",5500
+2002,"Protected person in Canada","Total with income",5070
+2003,"Protected person in Canada","Total with income",6035
+2004,"Protected person in Canada","Total with income",8575
+2005,"Protected person in Canada","Total with income",10855
+2006,"Protected person in Canada","Total with income",8100
+2007,"Protected person in Canada","Total with income",5875
+2008,"Protected person in Canada","Total with income",3670
+2009,"Protected person in Canada","Total with income",3590
+2010,"Protected person in Canada","Total with income",4690
+2011,"Protected person in Canada","Total with income",5610
+2012,"Protected person in Canada","Total with income",4525
+2013,"Protected person in Canada","Total with income",4390
+2014,"Protected person in Canada","Total with income",4105
+2015,"Protected person in Canada","Total with income",4015
+2016,"Protected person in Canada","Total with income",3930
+2001,"Protected person in Canada","Mean with income",19700
+2002,"Protected person in Canada","Mean with income",19200
+2003,"Protected person in Canada","Mean with income",21000
+2004,"Protected person in Canada","Mean with income",20600
+2005,"Protected person in Canada","Mean with income",20300
+2006,"Protected person in Canada","Mean with income",19700
+2007,"Protected person in Canada","Mean with income",20700
+2008,"Protected person in Canada","Mean with income",21900
+2009,"Protected person in Canada","Mean with income",22100
+2010,"Protected person in Canada","Mean with income",21700
+2011,"Protected person in Canada","Mean with income",21800
+2012,"Protected person in Canada","Mean with income",23200
+2013,"Protected person in Canada","Mean with income",23700
+2014,"Protected person in Canada","Mean with income",24100
+2015,"Protected person in Canada","Mean with income",22600
+2016,"Protected person in Canada","Mean with income",21200
+2001,"Protected person in Canada","Median with income",17400
+2002,"Protected person in Canada","Median with income",16400
+2003,"Protected person in Canada","Median with income",18700
+2004,"Protected person in Canada","Median with income",18000
+2005,"Protected person in Canada","Median with income",17700
+2006,"Protected person in Canada","Median with income",16900
+2007,"Protected person in Canada","Median with income",17500
+2008,"Protected person in Canada","Median with income",19100
+2009,"Protected person in Canada","Median with income",19100
+2010,"Protected person in Canada","Median with income",18200
+2011,"Protected person in Canada","Median with income",19200
+2012,"Protected person in Canada","Median with income",20000
+2013,"Protected person in Canada","Median with income",20100
+2014,"Protected person in Canada","Median with income",20000
+2015,"Protected person in Canada","Median with income",18900
+2016,"Protected person in Canada","Median with income",17300
+2001,"Dependent abroad of a protected person in Canada","Total count",1575
+2002,"Dependent abroad of a protected person in Canada","Total count",1690
+2003,"Dependent abroad of a protected person in Canada","Total count",1705
+2004,"Dependent abroad of a protected person in Canada","Total count",2800
+2005,"Dependent abroad of a protected person in Canada","Total count",2390
+2006,"Dependent abroad of a protected person in Canada","Total count",2655
+2007,"Dependent abroad of a protected person in Canada","Total count",2355
+2008,"Dependent abroad of a protected person in Canada","Total count",1860
+2009,"Dependent abroad of a protected person in Canada","Total count",1410
+2010,"Dependent abroad of a protected person in Canada","Total count",1470
+2011,"Dependent abroad of a protected person in Canada","Total count",1680
+2012,"Dependent abroad of a protected person in Canada","Total count",2030
+2013,"Dependent abroad of a protected person in Canada","Total count",1615
+2014,"Dependent abroad of a protected person in Canada","Total count",1500
+2015,"Dependent abroad of a protected person in Canada","Total count",1555
+2016,"Dependent abroad of a protected person in Canada","Total count",1655
+2001,"Dependent abroad of a protected person in Canada","Total with income",580
+2002,"Dependent abroad of a protected person in Canada","Total with income",545
+2003,"Dependent abroad of a protected person in Canada","Total with income",535
+2004,"Dependent abroad of a protected person in Canada","Total with income",1080
+2005,"Dependent abroad of a protected person in Canada","Total with income",850
+2006,"Dependent abroad of a protected person in Canada","Total with income",1190
+2007,"Dependent abroad of a protected person in Canada","Total with income",1055
+2008,"Dependent abroad of a protected person in Canada","Total with income",790
+2009,"Dependent abroad of a protected person in Canada","Total with income",565
+2010,"Dependent abroad of a protected person in Canada","Total with income",595
+2011,"Dependent abroad of a protected person in Canada","Total with income",605
+2012,"Dependent abroad of a protected person in Canada","Total with income",805
+2013,"Dependent abroad of a protected person in Canada","Total with income",730
+2014,"Dependent abroad of a protected person in Canada","Total with income",690
+2015,"Dependent abroad of a protected person in Canada","Total with income",670
+2016,"Dependent abroad of a protected person in Canada","Total with income",610
+2001,"Dependent abroad of a protected person in Canada","Mean with income",9600
+2002,"Dependent abroad of a protected person in Canada","Mean with income",7900
+2003,"Dependent abroad of a protected person in Canada","Mean with income",8100
+2004,"Dependent abroad of a protected person in Canada","Mean with income",7900
+2005,"Dependent abroad of a protected person in Canada","Mean with income",9700
+2006,"Dependent abroad of a protected person in Canada","Mean with income",8700
+2007,"Dependent abroad of a protected person in Canada","Mean with income",10500
+2008,"Dependent abroad of a protected person in Canada","Mean with income",10700
+2009,"Dependent abroad of a protected person in Canada","Mean with income",10500
+2010,"Dependent abroad of a protected person in Canada","Mean with income",11300
+2011,"Dependent abroad of a protected person in Canada","Mean with income",11200
+2012,"Dependent abroad of a protected person in Canada","Mean with income",11600
+2013,"Dependent abroad of a protected person in Canada","Mean with income",11700
+2014,"Dependent abroad of a protected person in Canada","Mean with income",14000
+2015,"Dependent abroad of a protected person in Canada","Mean with income",12900
+2016,"Dependent abroad of a protected person in Canada","Mean with income",11400
+2001,"Dependent abroad of a protected person in Canada","Median with income",6800
+2002,"Dependent abroad of a protected person in Canada","Median with income",5200
+2003,"Dependent abroad of a protected person in Canada","Median with income",5000
+2004,"Dependent abroad of a protected person in Canada","Median with income",5400
+2005,"Dependent abroad of a protected person in Canada","Median with income",5700
+2006,"Dependent abroad of a protected person in Canada","Median with income",6000
+2007,"Dependent abroad of a protected person in Canada","Median with income",6400
+2008,"Dependent abroad of a protected person in Canada","Median with income",6800
+2009,"Dependent abroad of a protected person in Canada","Median with income",6600
+2010,"Dependent abroad of a protected person in Canada","Median with income",6800
+2011,"Dependent abroad of a protected person in Canada","Median with income",6800
+2012,"Dependent abroad of a protected person in Canada","Median with income",7000
+2013,"Dependent abroad of a protected person in Canada","Median with income",7600
+2014,"Dependent abroad of a protected person in Canada","Median with income",7500
+2015,"Dependent abroad of a protected person in Canada","Median with income",7600
+2016,"Dependent abroad of a protected person in Canada","Median with income",7100
+2001,"Other immigrant","Total count",85
+2002,"Other immigrant","Total count",65
+2003,"Other immigrant","Total count",965
+2004,"Other immigrant","Total count",3530
+2005,"Other immigrant","Total count",3925
+2006,"Other immigrant","Total count",3935
+2007,"Other immigrant","Total count",3730
+2008,"Other immigrant","Total count",2950
+2009,"Other immigrant","Total count",2695
+2010,"Other immigrant","Total count",2585
+2011,"Other immigrant","Total count",2405
+2012,"Other immigrant","Total count",2785
+2013,"Other immigrant","Total count",2250
+2014,"Other immigrant","Total count",2345
+2015,"Other immigrant","Total count",2795
+2016,"Other immigrant","Total count",2525
+2001,"Other immigrant","Total with income",70
+2002,"Other immigrant","Total with income",45
+2003,"Other immigrant","Total with income",630
+2004,"Other immigrant","Total with income",2650
+2005,"Other immigrant","Total with income",2925
+2006,"Other immigrant","Total with income",2940
+2007,"Other immigrant","Total with income",2805
+2008,"Other immigrant","Total with income",2145
+2009,"Other immigrant","Total with income",1985
+2010,"Other immigrant","Total with income",1935
+2011,"Other immigrant","Total with income",1755
+2012,"Other immigrant","Total with income",1945
+2013,"Other immigrant","Total with income",1735
+2014,"Other immigrant","Total with income",1895
+2015,"Other immigrant","Total with income",2275
+2016,"Other immigrant","Total with income",2050
+2001,"Other immigrant","Mean with income",21900
+2002,"Other immigrant","Mean with income",18300
+2003,"Other immigrant","Mean with income",20800
+2004,"Other immigrant","Mean with income",22200
+2005,"Other immigrant","Mean with income",21300
+2006,"Other immigrant","Mean with income",21000
+2007,"Other immigrant","Mean with income",22100
+2008,"Other immigrant","Mean with income",21700
+2009,"Other immigrant","Mean with income",23000
+2010,"Other immigrant","Mean with income",25400
+2011,"Other immigrant","Mean with income",23600
+2012,"Other immigrant","Mean with income",24300
+2013,"Other immigrant","Mean with income",26100
+2014,"Other immigrant","Mean with income",27800
+2015,"Other immigrant","Mean with income",26500
+2016,"Other immigrant","Mean with income",26100
+2001,"Other immigrant","Median with income",18500
+2002,"Other immigrant","Median with income",14000
+2003,"Other immigrant","Median with income",15000
+2004,"Other immigrant","Median with income",17200
+2005,"Other immigrant","Median with income",17900
+2006,"Other immigrant","Median with income",17200
+2007,"Other immigrant","Median with income",18500
+2008,"Other immigrant","Median with income",17400
+2009,"Other immigrant","Median with income",18900
+2010,"Other immigrant","Median with income",21100
+2011,"Other immigrant","Median with income",19900
+2012,"Other immigrant","Median with income",19700
+2013,"Other immigrant","Median with income",21400
+2014,"Other immigrant","Median with income",23000
+2015,"Other immigrant","Median with income",23200
+2016,"Other immigrant","Median with income",23500
