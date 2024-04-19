@@ -1,14 +1,14 @@
 ---
 title: "You got Money, You get Citizenship: A Study of Income Distribution among Immigrants Admission Categories in Canada"
 author: "Aviral Bhardwaj"
+abstract: "This paper investigates the relationship between income levels and immigrants' admission categories on citizenship rates in Canada from 2001 to 2021. Utilizing data from Statistics Canada, the study explores the influence of income distribution among top six immigrants admission categories. Results reveal a notable affinity towards the `Economic Immigrants` category, with the highest median income. Positive correlations between immigrant admissions and income signify Canada's success in attracting economically impactful individuals. This research sheds light on Canada's immigration policy implications amidst socio-economic challenges."
 date: today
 date-format: long
 number-section: true
 format: pdf
 toc: true
 number-sections: true
-thanks: "Code and data supporting this analysis is available at:
-  "
+thanks: "Code and data supporting this analysis is available at:https://github.com/Aviral-03/canada_immigrant_income_distribution/tree/main"
 bibliography: ["references.bib"]
 ---
 
@@ -564,12 +564,16 @@ The independent variable Admission Category is a categorical variable with four 
 - Refugee
 - Other Immigrants
 
-The independent variable "Median Income" is a continuous variable representing the median income of all immigrants in each Admission Category. The dependent variable "Total Count" is the total number of immigrants granted citizenship in each Admission Category.
+The dependent variable "Total Count" is the total number of immigrants granted citizenship in each Admission Category.
 
 
 ## Model Justification
 
-In our analysis, we aimed to estimate the relationship between admission categories and the total number of immigrants, considering the overdispersion observed in the data. We initially considered employing a Negative Binomial regression model due to its suitability for count data, and categorical independent variables, which aligns with our data, as seen in @tbl-table4. However, we noticed that both Poisson and Negative Binomial regression models yielded the same coefficient estimates, suggesting that both models are equally appropriate for the data. Therefore, we decided to use the Poisson regression model for our analysis.
+In our analysis, our primary goal was to understand the relationship between admission categories and the total number of immigrants admitted into Canada. Given the nature of our data, which involves count data (the number of immigrants) and categorical independent variables (admission categories), we initially considered employing a Negative Binomial regression model. The Negative Binomial regression model is well-suited for count data that exhibit overdispersion, a common characteristic where the variance of the data exceeds the mean.
+
+Upon conducting our analysis, we found that both the Poisson and Negative Binomial regression models yielded similar coefficient estimates. This observation suggested that both models could effectively capture the relationship between our independent and dependent variables. However, as the Poisson regression model is a simpler and more interpretable model, and since it provided comparable results to the Negative Binomial model, we ultimately chose to utilize the Poisson regression model for our analysis.
+
+By selecting the Poisson regression model, we aimed to provide a more straightforward interpretation of the relationship between admission categories and the total number of immigrants while still adequately addressing the overdispersion observed in the data.
 <!--
 Similarly, for the Multiple regression model, we aimed to estimate the relationship between the total number of immigrants and their median income. Since we observed a positive correlation, as will see in @fig-fig3, it prompted us to create a model to estimate the relationship between the two variables of interest. We employed a Gaussian regression model, which is suitable for continuous data. The model allows us to estimate the relationship. From Appendix [...], we see that the model has a good fit, with the coefficient estimates being statistically significant.
 -->
@@ -598,12 +602,15 @@ model_data <- cleaned_data %>%
 ```
 Table @tbl-modelresults presents the summary of the Poisson regression model, and multiple regression model.
 
-In the above table, "Economic Immigrant, spouse and dependent" serves as the reference category and is omitted from the table. In this baseline model, we observe positive coefficients for the admission categories "Immigrants sponsored by family" and "Economic Immigrant, principal applicant". Specifically, $\beta_1 = 1.49$ suggests that being an "Economic Immigrant, Principal Applicant" is positively associated with the log count of total immigrants compared to the reference category. This positive association indicates that individuals falling under this admission category are more likely to be granted citizenship compared to those in the reference category and other categories with negative coefficients. This relationship aligns with the findings in @tbl-table4, where we observe that the percentage of total count for "Economic Immigrant, principal applicant" is 16%, which is the highest among all admission categories. Additionally, the admission category "Immigrants sponsored by family" has a positive coefficient of 0.35, indicating a positive association as well, which accounted for 16% of the total count as well.
+In the above table, "Economic Immigrant, spouse and dependent" serves as the reference category and is omitted from the table. In this baseline model, we observe positive coefficients for the admission categories "Immigrants sponsored by family" and "Economic Immigrant, principal applicant". Specifically, $\beta_1 = 1.49$ suggests that being an "Economic Immigrant, Principal Applicant" is positively associated with the log count of total immigrants compared to the reference category. This positive association indicates that individuals falling under this admission category are more likely to be granted citizenship compared to those in the reference category and other categories with negative coefficients. This relationship aligns with the findings in @tbl-table4, where we observe that the percentage of total count for "Economic Immigrant, principal applicant" is 16%, which is the highest among all admission categories. Additionally, the admission category "Immigrants sponsored by family" has a positive coefficient of 0.35, indicating a positive association as well, which accounted for 16% of the total count as well as observed in @tbl-table4.
 
 We also see that Other Immigrant has a negative coefficient of -2.67, indicating that this category has a negative association with the log count of immigrants, consistent with 0.78% of the total count. This suggests that individuals in this category are less likely to be granted citizenship compared to the reference category.
 
-More interesting findings are observed in @fig-fig3 is an illustration of Median Income (in $CAD) by Admission Category from 2001 to 2016. The graph shows a strong positive coorelation between the year and the median income, as the median income increases over the years. This is expected as the economy grows, the median income of immigrants also increases. The graph also shows the trend line for each admission category, which indicates the direction of the trend. Using this line we observe that `Economic Immigrant, principal applicant` has the highest median income among all the admission categories reached \$30,000 CAD, even bigger than the `Total, immigrant admission cateogry` suggesting that principal applicant is way above the average. It is almost increasing linearly over the years, suggesting Canad's policies of attracting high income immigrants to the country.
+@fig-fig3 presents intriguing insights into the Median Income (in $CAD) by Admission Category from 2001 to 2016. The graph reveals a positive correlation between the year and median income, with incomes steadily rising over the period. This trend aligns with expectations, as economic growth typically corresponds with higher median incomes among immigrants.
 
+Additionally, the trend lines for each admission category provide further clarity, indicating the direction of their respective income trends. Notably, the line for "Economic Immigrant, principal applicant" stands out, consistently surpassing other categories and even exceeding the median income for the "Total, immigrant admission category," reaching $30,000 CAD. This observation suggests that principal applicants are significantly above the average income level, reflecting Canada's strategy of attracting high-income immigrants. Close behind is "Immigrants sponsered by family", whose Median income has also increased over the years, reaching \$25,000 CAD in 2016. Similar results were also observed @fig-fig1, where "Immigrants sponsored by family" was ranked second in terms of income distribution among admission categories. Note that "Refugee" and "Other Immigrants" almost never exceed the median income of the \$15,000 CAD, indicating that these categories have lower median incomes compared to other admission categories, and do not positively contribute to the economy.
+
+These findings can be cross-referenced with the Poisson regression model, which indicates similar results.
 
 ```{r}
 #| warning: false
@@ -632,11 +639,12 @@ ggplot(table1_long, aes(x = Year, y = Value, color = `Admission Category`, group
   scale_x_continuous(breaks = seq(2001, 2016, 1))
 ```
 
-By utilizing this model both of these models we can estimate wheather a new immigrant from a certain admission category will be granted citizenship based on their income level, essentially the core goal of our analysis.
+By utilizing this model both of these models we can estimate that some categories have a higher likelihood of being granted citizenship compared to others. Using the regression model, we have identified `Median Income` as a significant predictor that influences the chances of being granted citizenship.
+
 
 # Discussion {#sec-discussion}
 
-In this paper, we analysed the trends between the citizenship rate among various Immigrant admission category and their income levels in Canada from 2001 to 2016. In addition, to that we also examined the income distribution among admission categories in 2021, allowing us to understand the correlation between these varaibles of interest. Here are some of the key finding that we observed:
+In this paper, we analysed the trends between the citizenship rate among various Immigrant admission category and their income levels in Canada from 2001 to 2016. In addition, to that we also examined the income distribution among admission categories in 2021, allowing us to understand the correlation between these variables of interest. Here are some of the key finding that we observed:
 
 ## Key Finding between Income Distribution and Admission Category
 The analysis reveals a positive correlation between income distribution and admission category, impacting the total number of citizenships granted to immigrants. In @sec-data, it's evident that the "Economic Immigrant" category, including principal applicants and spouses, accounted for the highest number of accepted immigrants across all income distributions. This aligns with Canada's strategic focus on attracting skilled workers and economic immigrants to bolster the economy and address labor market demands, which can be explained by Canada's Provinical Nominiee Program (PNP) [@ircc_pnp] allows provinces to nominate individuals for permanent residency based on their ability to contribute to the economy. This program is designed to address the specific labor market needs of each province, and it is not surprising that the economic immigrant category is the most popular among all the categories.
@@ -644,11 +652,11 @@ The analysis reveals a positive correlation between income distribution and admi
 An intriguing observation is the prominence of "Immigrants sponsored by family" as the second-highest category for income distributions ranging from $20,000 to $59,999, albeit dropping to the third-highest for income distributions between $60,000 to $99,999. This underscores Canada's preference for wealthier family-sponsored immigrants with higher income levels, despite the emphasis on economic contribution in immigrant selection criteria. This trend is consistent with the fact that family sponsorship remains a significant pathway to recieveing citizship and bringing foreign investment directly into Canadian bank.
 
 ## Key Finding between Citizenship Rate disparity between Admission Category based on Income
-In term of the citizenship distribution, we observe the highest citizenship rate among all the Admission categories was for "Econonmic Immigrant, principal applicant" which was a 75% increase from 2001 to 2016. This claim is supported by the Poisson regression model, which indicates that individuals in this category are more likely to be granted citizenship compared to other categories. This is consistent with the findings in @tbl-table4, where we observe that the percentage of total count for "Economic Immigrants" were togeter 27.51% of the total count, which is the highest among all admission categories. 
+In terms of citizenship distribution, the highest rate is observed among "Economic Immigrant, principal applicant" category, showing a 75% increase from 2001 to 2016. This finding is supported by the Poisson regression model, indicating a higher likelihood of citizenship for individuals in this category compared to others. Additionally, @tbl-table4 reveals that "Economic Immigrants" constitute 27.51% of the total count, the highest among all admission categories. Moreover, the table illustrates that a significant proportion of immigrants granted citizenship also have income, mirroring the total count percentages.
 
-Additionally, @fig-fig3 also showed that the median income for "Economic Immgirant" showed the biggest increase over the years, followed by "Immigrant sponsered by family". These results can be cross-verified with the Poisson regression model, in which positive coefficients for the admission categories were observed. 
+Furthermore, immigrants admitted in 2018 had a median wage of $31,900 in 2019, marking a 4.2% increase from those admitted in 2017. Notably, 2018 admissions had the highest median entry wage reported one year post-admission since 1981. @fig-fig3 depicts the substantial increase in median income for "Economic Immigrant" category over the years, followed by "Immigrant sponsored by family," corroborating the Poisson regression model's positive coefficients for these admission categories.
 
-This is a significant increase in the citizenship rate, suggesting that the Canadian government is successful in attracting
+It should be noted that Economic principal applicants are more likely to file taxes due to their selection based on their economic contribution potential, thus increasing their likelihood of having higher incomes. Nevertheless, the rising median income across all admission categories over the years underscores the positive economic contribution, highlighting Canada's successful immigration policies.
 
 # Weakness and Next Steps {#sec-weakness}
 While the paper aims to offer a comprehensive analysis of the trends in citizenship rates and income levels among various Admission Categories and Applicant Types in Canada from 2001 to 2016, several limitations need acknowledgment. Firstly, the data utilized only extends until 2016, potentially limiting the breadth of our analysis regarding current trends. Moreover, while income level by admission category is a significant factor influencing citizenship rates, other variables such as Generation Status, Education, Language, Place of Birth, and Socio-economic Status may also play pivotal roles. While considering these factors could enhance the analysis, it falls beyond the scope of this paper and suggests a direction for future research.
