@@ -1,16 +1,12 @@
 ---
-title: "Datasheet for 'A dataset'"
-subtitle: "My subtitle if needed"
+title: "Datasheet for 'Canadian Census 2021'"
 author: 
-  - First author
-  - Another author
-thanks: "Code and data are available at: LINK."
-date: "`r Sys.time()`"
-date-format: "D MMMM YYYY"
-abstract: "First sentence. Second sentence. Third sentence. Fourth sentence."
+  - Aviral Bhardwaj
+thanks: "Code and data are available at: https://github.com/Aviral-03/canada_immigrant_income_distribution/tree/main"
+date: today
+date-format: long
 format: pdf
 number-sections: true
-bibliography: references.bib
 ---
 
 Extract of the questions from @gebru2021datasheets.
@@ -155,7 +151,3 @@ Extract of the questions from @gebru2021datasheets.
 8. *Any other comments?*
 	- TBD
 
-
-\newpage
-
-# References
