@@ -4,9 +4,7 @@
 
 This paper investigates the relationship between income levels and immigrants’
 admission categories on citizenship rates in Canada from 2001 to 2021. Utilizing
-data from Statistics Canada, the study explores the influence of income distribu-
-tion among top six immigrants admission categories. Results reveal a notable aﬀin-
-ity towards the Economic Immigrants category, with the highest median income.
+data from Statistics Canada, the study explores the influence of income distribution among top six immigrants admission categories. Results reveal a notable aﬀinity towards the Economic Immigrants category, with the highest median income.
 Positive correlations between immigrant admissions and income signify Canada’s
 success in attracting economically impactful individuals. This research sheds light
 on Canada’s immigration policy implications amidst socio-economic challenges
